@@ -1,0 +1,1001 @@
+OrderID,ProductName,Quantity,InvoiceDate,InvoiceMonth,UnitPrice,SalesAmount,TaxAmount
+1,Slim & Fit Milk 312 gr,2,2023/01/22,January,80000,161814,16181.4
+2,Fitbar Multigrain Tiramisu 22 gram,10,2023/03/01,March,4000,42388,4238.8
+3,Fitbar Multigrain Tiramisu 22 gram,18,2023/05/09,May,4000,72961,7296.1
+4,Entrasol Active Vanilla Latte 160 gram,10,2023/02/01,February,29000,291466,29146.6
+5,Fitbar Multigrain Tiramisu 22 gram,16,2023/02/20,February,4000,65620,6562
+6,Hydro Coco Original 500 ml,9,2023/02/18,February,16500,149594,14959.4
+7,Diabetasol Wafer Coklat 100 gram,14,2023/4/29,April,28000,394438,39443.8
+8,Diabetasol Wafer Coklat 100 gram,17,2023/04/13,April,28000,476446,47644.6
+9,Slim & Fit Milk 312 gr,8,2023/03/01,March,80000,642484,64248.4
+10,Entrasol Active Vanilla Latte 160 gram,2,2023/03/31,March,29000,60424,6042.4
+11,Diabetasol Coklat 1 kg,5,2023/01/24,January,231000,1155407,115540.7
+12,Entrasol Cereal 150 gram,9,2023/04/25,April,17000,155128,15512.8
+13,Entrasol Active Vanilla Latte 160 gram,9,2023/03/23,March,29000,261603,26160.3
+14,Fitbar Multigrain raisin 22 gram,16,2023/02/20,February,5000,81239,8123.9
+15,Fitbar Multigrain Tiramisu 22 gram,7,2023/01/07,January,4000,29214,2921.4
+16,Diabetasol Wafer Coklat 100 gram,7,2023/2/3,February,28000,196733,19673.3
+17,Hydro Coco Original 500 ml,18,2023/04/24,April,16500,298503,29850.3
+18,Diabetasol Wafer Coklat 100 gram,2,2023/02/23,February,28000,56610,5661
+19,Hydro Coco Original 500 ml,2,2023/03/05,March,16500,34084,3408.4
+20,Entrasol Active Chocolate 160 gram,8,2023/5/7,May,29000,232929,23292.9
+21,Hydro Coco Original 500 ml,12,2023/05/12,May,16500,198827,19882.7
+22,Entrasol Active Chocolate 160 gram,3,2023/04/22,April,29000,87495,8749.5
+23,Entrasol UHT Vanilla Latte 200 ml,5,2023/02/23,February,7000,37413,3741.3
+24,Diabetasol Coklat 1 kg,2,2023/03/17,March,231000,462332,46233.2
+25,Diabetasol Coklat 1 kg,19,2023/05/01,May,231000,4389843,438984.3
+26,Fitbar Multigrain raisin 22 gram,7,2023/01/08,January,5000,36652,3665.2
+27,Entrasol UHT Vanilla Latte 200 ml,14,2023/04/21,April,7000,98807,9880.7
+28,Hydro Coco Original 500 ml,20,2023/02/22,February,16500,332020,33202
+29,Entrasol Active Vanilla Latte 160 gram,5,2023/02/11,February,29000,146979,14697.9
+30,Diabetasol Coklat 1 kg,17,2023/02/02,February,231000,3927337,392733.7
+31,Slim & Fit Milk 312 gr,9,2023/02/03,February,80000,720782,72078.2
+32,Entrasol Active Vanilla Latte 160 gram,4,2023/03/23,March,29000,116488,11648.8
+33,Fitbar Multigrain raisin 22 gram,3,2023/05/01,May,5000,15575,1557.5
+34,Slim & Fit Milk 312 gr,7,2023/01/08,January,80000,560128,56012.8
+35,Entrasol Active Chocolate 160 gram,1,2023/02/07,February,29000,29916,2991.6
+36,Slim & Fit Milk 312 gr,4,2023/04/23,April,80000,321761,32176.1
+37,Fitbar Multigrain Tiramisu 22 gram,3,2023/01/22,January,4000,13261,1326.1
+38,Hydro Coco Original 500 ml,7,2023/4/11,April,16500,116943,11694.3
+39,Fitbar Multigrain Tiramisu 22 gram,18,2023/4/2,April,4000,73407,7340.7
+40,Entrasol Active Chocolate 160 gram,16,2023/05/07,May,29000,464274,46427.4
+41,Slim & Fit Milk 312 gr,8,2023/04/18,April,80000,642432,64243.2
+42,Fitbar Multigrain Tiramisu 22 gram,3,2023/4/28,April,4000,14152,1415.2
+43,Entrasol Active Vanilla Latte 160 gram,12,2023/02/28,February,29000,348711,34871.1
+44,Entrasol Active Vanilla Latte 160 gram,4,2023/04/21,April,29000,117904,11790.4
+45,Fitbar Multigrain Tiramisu 22 gram,19,2023/01/09,January,4000,77366,7736.6
+46,Fitbar Multigrain Tiramisu 22 gram,17,2023/3/19,March,4000,69460,6946
+47,Hydro Coco Original 500 ml,4,2023/4/3,April,16500,66812,6681.2
+48,Hydro Coco Original 500 ml,18,2023/05/10,May,16500,298525,29852.5
+49,Entrasol Cereal 150 gram,8,2023/04/06,April,17000,137348,13734.8
+50,Entrasol UHT Vanilla Latte 200 ml,3,2023/01/07,January,7000,22549,2254.9
+51,Hydro Coco Original 500 ml,6,2023/01/27,January,16500,99207,9920.7
+52,Diabetasol Coklat 1 kg,3,2023/4/16,April,231000,695201,69520.1
+53,Fitbar Multigrain Tiramisu 22 gram,2,2023/03/07,March,4000,10001,1000.1
+54,Diabetasol Coklat 1 kg,10,2023/01/29,January,231000,2312307,231230.7
+55,Fitbar Multigrain Tiramisu 22 gram,8,2023/01/06,January,4000,34365,3436.5
+56,Entrasol UHT Vanilla Latte 200 ml,3,2023/03/30,March,7000,22697,2269.7
+57,Diabetasol Coklat 1 kg,4,2023/04/11,April,231000,924659,92465.9
+58,Entrasol Active Vanilla Latte 160 gram,7,2023/03/31,March,29000,204343,20434.3
+59,Entrasol Active Chocolate 160 gram,7,2023/1/28,January,29000,203181,20318.1
+60,Diabetasol Wafer Coklat 100 gram,16,2023/2/7,February,28000,448231,44823.1
+61,Slim & Fit Milk 312 gr,15,2023/02/20,February,80000,1202209,120220.9
+62,Entrasol Active Vanilla Latte 160 gram,1,2023/01/10,January,29000,30798,3079.8
+63,Entrasol Active Chocolate 160 gram,3,2023/04/09,April,29000,88477,8847.7
+64,Entrasol Active Chocolate 160 gram,11,2023/1/21,January,29000,320511,32051.1
+65,Fitbar Multigrain raisin 22 gram,3,2023/1/30,January,5000,17257,1725.7
+66,Diabetasol Wafer Coklat 100 gram,18,2023/03/10,March,28000,505898,50589.8
+67,Hydro Coco Original 500 ml,15,2023/2/14,February,16500,249067,24906.7
+68,Fitbar Multigrain raisin 22 gram,7,2023/4/16,April,5000,36853,3685.3
+69,Entrasol Active Chocolate 160 gram,5,2023/1/30,January,29000,146339,14633.9
+70,Fitbar Multigrain raisin 22 gram,20,2023/03/26,March,5000,100051,10005.1
+71,Fitbar Multigrain raisin 22 gram,16,2023/1/30,January,5000,81761,8176.1
+72,Diabetasol Coklat 1 kg,13,2023/03/21,March,231000,3005344,300534.4
+73,Slim & Fit Milk 312 gr,6,2023/02/02,February,80000,481120,48112
+74,Diabetasol Wafer Coklat 100 gram,4,2023/03/06,March,28000,112225,11222.5
+75,Fitbar Multigrain raisin 22 gram,16,2023/02/02,February,5000,81936,8193.6
+76,Diabetasol Wafer Coklat 100 gram,14,2023/04/02,April,28000,393305,39330.5
+77,Hydro Coco Original 500 ml,6,2023/01/15,January,16500,101153,10115.3
+78,Diabetasol Wafer Coklat 100 gram,18,2023/02/04,February,28000,505739,50573.9
+79,Fitbar Multigrain raisin 22 gram,15,2023/03/28,March,5000,76399,7639.9
+80,Hydro Coco Original 500 ml,20,2023/02/01,February,16500,331465,33146.5
+81,Fitbar Multigrain Tiramisu 22 gram,3,2023/2/21,February,4000,13780,1378
+82,Entrasol Active Chocolate 160 gram,20,2023/01/10,January,29000,580592,58059.2
+83,Diabetasol Coklat 1 kg,19,2023/03/13,March,231000,4391358,439135.8
+84,Fitbar Multigrain raisin 22 gram,6,2023/02/16,February,5000,30634,3063.4
+85,Diabetasol Wafer Coklat 100 gram,12,2023/02/09,February,28000,336185,33618.5
+86,Fitbar Multigrain Tiramisu 22 gram,2,2023/01/09,January,4000,8858,885.8
+87,Slim & Fit Milk 312 gr,17,2023/05/11,May,80000,1362124,136212.4
+88,Diabetasol Coklat 1 kg,16,2023/03/25,March,231000,3697334,369733.4
+89,Fitbar Multigrain raisin 22 gram,16,2023/04/17,April,5000,82380,8238
+90,Fitbar Multigrain Tiramisu 22 gram,1,2023/01/31,January,4000,6176,617.6
+91,Fitbar Multigrain raisin 22 gram,7,2023/02/21,February,5000,36125,3612.5
+92,Slim & Fit Milk 312 gr,5,2023/03/14,March,80000,401210,40121
+93,Entrasol UHT Vanilla Latte 200 ml,14,2023/01/03,January,7000,99591,9959.1
+94,Entrasol Active Vanilla Latte 160 gram,4,2023/04/13,April,29000,116358,11635.8
+95,Fitbar Multigrain Tiramisu 22 gram,20,2023/3/15,March,4000,81324,8132.4
+96,Diabetasol Coklat 1 kg,3,2023/02/11,February,231000,695320,69532
+97,Entrasol Cereal 150 gram,13,2023/01/02,January,17000,221142,22114.2
+98,Diabetasol Wafer Coklat 100 gram,11,2023/03/18,March,28000,308134,30813.4
+99,Entrasol Cereal 150 gram,16,2023/03/11,March,17000,273407,27340.7
+100,Entrasol Active Vanilla Latte 160 gram,18,2023/03/20,March,29000,522747,52274.7
+101,Diabetasol Wafer Coklat 100 gram,18,2023/04/09,April,28000,506327,50632.7
+102,Entrasol Cereal 150 gram,18,2023/02/12,February,17000,308048,30804.8
+103,Fitbar Multigrain raisin 22 gram,2,2023/03/13,March,5000,10921,1092.1
+104,Fitbar Multigrain Tiramisu 22 gram,11,2023/03/10,March,4000,45290,4529
+105,Entrasol Active Chocolate 160 gram,13,2023/02/27,February,29000,377160,37716
+106,Slim & Fit Milk 312 gr,9,2023/01/05,January,80000,722114,72211.4
+107,Entrasol Cereal 150 gram,9,2023/04/24,April,17000,153541,15354.1
+108,Entrasol UHT Vanilla Latte 200 ml,19,2023/04/07,April,7000,135379,13537.9
+109,Entrasol Cereal 150 gram,14,2023/01/05,January,17000,240186,24018.6
+110,Diabetasol Coklat 1 kg,14,2023/03/20,March,231000,3234339,323433.9
+111,Diabetasol Wafer Coklat 100 gram,13,2023/02/26,February,28000,366288,36628.8
+112,Fitbar Multigrain Tiramisu 22 gram,14,2023/3/20,March,4000,57691,5769.1
+113,Hydro Coco Original 500 ml,13,2023/01/09,January,16500,214557,21455.7
+114,Fitbar Multigrain raisin 22 gram,19,2023/01/31,January,5000,95300,9530
+115,Entrasol Active Vanilla Latte 160 gram,5,2023/02/07,February,29000,146790,14679
+116,Entrasol UHT Vanilla Latte 200 ml,3,2023/05/01,May,7000,21406,2140.6
+117,Diabetasol Wafer Coklat 100 gram,16,2023/04/15,April,28000,448264,44826.4
+118,Entrasol UHT Vanilla Latte 200 ml,8,2023/03/26,March,7000,57556,5755.6
+119,Entrasol Active Vanilla Latte 160 gram,11,2023/02/11,February,29000,321084,32108.4
+120,Diabetasol Wafer Coklat 100 gram,6,2023/02/08,February,28000,169312,16931.2
+121,Entrasol Cereal 150 gram,13,2023/1/12,January,17000,222197,22219.7
+122,Slim & Fit Milk 312 gr,2,2023/01/29,January,80000,162277,16227.7
+123,Fitbar Multigrain Tiramisu 22 gram,11,2023/02/26,February,4000,44024,4402.4
+124,Entrasol UHT Vanilla Latte 200 ml,8,2023/5/4,May,7000,56554,5655.4
+125,Fitbar Multigrain Tiramisu 22 gram,1,2023/02/24,February,4000,5611,561.1
+126,Entrasol Cereal 150 gram,7,2023/01/20,January,17000,120060,12006
+127,Fitbar Multigrain Tiramisu 22 gram,14,2023/04/14,April,4000,58052,5805.2
+128,Hydro Coco Original 500 ml,19,2023/01/24,January,16500,315605,31560.5
+129,Diabetasol Wafer Coklat 100 gram,12,2023/02/07,February,28000,336243,33624.3
+130,Entrasol Cereal 150 gram,13,2023/03/07,March,17000,223065,22306.5
+131,Diabetasol Wafer Coklat 100 gram,10,2023/01/26,January,28000,280911,28091.1
+132,Fitbar Multigrain raisin 22 gram,19,2023/02/22,February,5000,95592,9559.2
+133,Slim & Fit Milk 312 gr,6,2023/02/05,February,80000,480420,48042
+134,Diabetasol Coklat 1 kg,16,2023/01/30,January,231000,3697204,369720.4
+135,Slim & Fit Milk 312 gr,19,2023/03/16,March,80000,1521396,152139.6
+136,Hydro Coco Original 500 ml,4,2023/03/22,March,16500,68014,6801.4
+137,Diabetasol Coklat 1 kg,8,2023/2/28,February,231000,1848486,184848.6
+138,Diabetasol Coklat 1 kg,9,2023/02/02,February,231000,2079848,207984.8
+139,Entrasol Active Chocolate 160 gram,13,2023/03/25,March,29000,378301,37830.1
+140,Diabetasol Coklat 1 kg,4,2023/02/04,February,231000,924395,92439.5
+141,Diabetasol Wafer Coklat 100 gram,3,2023/03/07,March,28000,84759,8475.9
+142,Entrasol Cereal 150 gram,3,2023/03/10,March,17000,52109,5210.9
+143,Fitbar Multigrain raisin 22 gram,15,2023/02/14,February,5000,76023,7602.3
+144,Entrasol UHT Vanilla Latte 200 ml,11,2023/01/24,January,7000,78918,7891.8
+145,Entrasol Cereal 150 gram,17,2023/02/12,February,17000,289485,28948.5
+146,Hydro Coco Original 500 ml,6,2023/02/12,February,16500,99007,9900.7
+147,Entrasol Active Vanilla Latte 160 gram,6,2023/2/13,February,29000,175666,17566.6
+148,Diabetasol Wafer Coklat 100 gram,4,2023/03/31,March,28000,113073,11307.3
+149,Fitbar Multigrain raisin 22 gram,3,2023/04/25,April,5000,16422,1642.2
+150,Diabetasol Wafer Coklat 100 gram,6,2023/02/12,February,28000,168016,16801.6
+151,Hydro Coco Original 500 ml,19,2023/02/10,February,16500,315525,31552.5
+152,Fitbar Multigrain Tiramisu 22 gram,18,2023/03/25,March,4000,73403,7340.3
+153,Entrasol Active Chocolate 160 gram,12,2023/03/25,March,29000,348710,34871
+154,Slim & Fit Milk 312 gr,17,2023/02/18,February,80000,1362213,136221.3
+155,Hydro Coco Original 500 ml,7,2023/2/15,February,16500,117516,11751.6
+156,Entrasol UHT Vanilla Latte 200 ml,18,2023/03/05,March,7000,126971,12697.1
+157,Hydro Coco Original 500 ml,20,2023/3/10,March,16500,332176,33217.6
+158,Diabetasol Wafer Coklat 100 gram,14,2023/2/15,February,28000,393475,39347.5
+159,Entrasol Cereal 150 gram,19,2023/02/20,February,17000,324438,32443.8
+160,Slim & Fit Milk 312 gr,14,2023/03/06,March,80000,1120210,112021
+161,Diabetasol Wafer Coklat 100 gram,13,2023/01/26,January,28000,365970,36597
+162,Diabetasol Coklat 1 kg,3,2023/01/26,January,231000,694962,69496.2
+163,Entrasol Active Vanilla Latte 160 gram,11,2023/03/10,March,29000,319906,31990.6
+164,Entrasol UHT Vanilla Latte 200 ml,17,2023/03/24,March,7000,120938,12093.8
+165,Entrasol UHT Vanilla Latte 200 ml,14,2023/03/15,March,7000,99735,9973.5
+166,Hydro Coco Original 500 ml,3,2023/01/11,January,16500,50844,5084.4
+167,Entrasol Active Chocolate 160 gram,16,2023/01/24,January,29000,465412,46541.2
+168,Fitbar Multigrain Tiramisu 22 gram,6,2023/5/6,May,4000,24336,2433.6
+169,Diabetasol Coklat 1 kg,1,2023/02/21,February,231000,231055,23105.5
+170,Diabetasol Coklat 1 kg,2,2023/1/28,January,231000,462056,46205.6
+171,Diabetasol Coklat 1 kg,19,2023/02/26,February,231000,4389204,438920.4
+172,Entrasol Active Chocolate 160 gram,8,2023/02/06,February,29000,234401,23440.1
+173,Diabetasol Coklat 1 kg,3,2023/4/29,April,231000,693961,69396.1
+174,Entrasol Cereal 150 gram,1,2023/05/11,May,17000,17654,1765.4
+175,Diabetasol Coklat 1 kg,10,2023/01/23,January,231000,2311047,231104.7
+176,Entrasol Active Vanilla Latte 160 gram,17,2023/04/28,April,29000,494870,49487
+177,Diabetasol Wafer Coklat 100 gram,2,2023/02/03,February,28000,57655,5765.5
+178,Fitbar Multigrain Tiramisu 22 gram,16,2023/03/08,March,4000,66146,6614.6
+179,Diabetasol Coklat 1 kg,20,2023/03/24,March,231000,4621479,462147.9
+180,Slim & Fit Milk 312 gr,3,2023/02/28,February,80000,241902,24190.2
+181,Diabetasol Wafer Coklat 100 gram,17,2023/04/30,April,28000,476401,47640.1
+182,Diabetasol Wafer Coklat 100 gram,11,2023/01/04,January,28000,308025,30802.5
+183,Diabetasol Wafer Coklat 100 gram,12,2023/03/18,March,28000,336811,33681.1
+184,Hydro Coco Original 500 ml,8,2023/05/04,May,16500,133302,13330.2
+185,Diabetasol Coklat 1 kg,5,2023/1/13,January,231000,1157197,115719.7
+186,Fitbar Multigrain raisin 22 gram,7,2023/1/1,January,5000,37091,3709.1
+187,Fitbar Multigrain Tiramisu 22 gram,2,2023/04/09,April,4000,8448,844.8
+188,Fitbar Multigrain raisin 22 gram,15,2023/02/10,February,5000,77385,7738.5
+189,Fitbar Multigrain Tiramisu 22 gram,6,2023/03/22,March,4000,25895,2589.5
+190,Entrasol UHT Vanilla Latte 200 ml,17,2023/02/04,February,7000,119445,11944.5
+191,Fitbar Multigrain raisin 22 gram,19,2023/05/09,May,5000,95041,9504.1
+192,Fitbar Multigrain raisin 22 gram,3,2023/4/28,April,5000,16636,1663.6
+193,Entrasol Cereal 150 gram,2,2023/02/22,February,17000,35932,3593.2
+194,Entrasol UHT Vanilla Latte 200 ml,4,2023/04/03,April,7000,29529,2952.9
+195,Entrasol Active Vanilla Latte 160 gram,2,2023/03/14,March,29000,59570,5957
+196,Slim & Fit Milk 312 gr,9,2023/04/01,April,80000,722130,72213
+197,Hydro Coco Original 500 ml,15,2023/03/25,March,16500,249614,24961.4
+198,Hydro Coco Original 500 ml,9,2023/2/18,February,16500,149362,14936.2
+199,Hydro Coco Original 500 ml,17,2023/03/25,March,16500,281680,28168
+200,Fitbar Multigrain Tiramisu 22 gram,20,2023/01/19,January,4000,81787,8178.7
+201,Entrasol Cereal 150 gram,18,2023/02/05,February,17000,308186,30818.6
+202,Diabetasol Coklat 1 kg,2,2023/04/25,April,231000,462130,46213
+203,Entrasol UHT Vanilla Latte 200 ml,13,2023/2/1,February,7000,91481,9148.1
+204,Entrasol Active Chocolate 160 gram,4,2023/02/04,February,29000,117381,11738.1
+205,Fitbar Multigrain Tiramisu 22 gram,5,2023/01/09,January,4000,21526,2152.6
+206,Fitbar Multigrain Tiramisu 22 gram,10,2023/03/06,March,4000,41149,4114.9
+207,Fitbar Multigrain raisin 22 gram,20,2023/01/18,January,5000,102498,10249.8
+208,Entrasol Active Chocolate 160 gram,16,2023/04/11,April,29000,464849,46484.9
+209,Hydro Coco Original 500 ml,8,2023/05/04,May,16500,133806,13380.6
+210,Entrasol UHT Vanilla Latte 200 ml,1,2023/04/19,April,7000,8690,869
+211,Entrasol UHT Vanilla Latte 200 ml,3,2023/02/25,February,7000,21119,2111.9
+212,Entrasol UHT Vanilla Latte 200 ml,14,2023/03/12,March,7000,99822,9982.2
+213,Entrasol UHT Vanilla Latte 200 ml,12,2023/05/06,May,7000,84386,8438.6
+214,Fitbar Multigrain raisin 22 gram,15,2023/04/09,April,5000,77126,7712.6
+215,Entrasol UHT Vanilla Latte 200 ml,1,2023/03/23,March,7000,8720,872
+216,Slim & Fit Milk 312 gr,20,2023/02/03,February,80000,1600971,160097.1
+217,Slim & Fit Milk 312 gr,12,2023/04/25,April,80000,962004,96200.4
+218,Fitbar Multigrain raisin 22 gram,19,2023/03/25,March,5000,96787,9678.7
+219,Hydro Coco Original 500 ml,15,2023/03/06,March,16500,249474,24947.4
+220,Entrasol UHT Vanilla Latte 200 ml,4,2023/03/18,March,7000,28170,2817
+221,Fitbar Multigrain raisin 22 gram,10,2023/01/08,January,5000,51493,5149.3
+222,Fitbar Multigrain raisin 22 gram,8,2023/01/21,January,5000,42458,4245.8
+223,Slim & Fit Milk 312 gr,8,2023/4/25,April,80000,641057,64105.7
+224,Entrasol UHT Vanilla Latte 200 ml,8,2023/03/02,March,7000,56657,5665.7
+225,Slim & Fit Milk 312 gr,11,2023/03/16,March,80000,880871,88087.1
+226,Entrasol Active Vanilla Latte 160 gram,7,2023/04/13,April,29000,203906,20390.6
+227,Diabetasol Coklat 1 kg,4,2023/03/16,March,231000,926051,92605.1
+228,Entrasol Active Chocolate 160 gram,19,2023/01/12,January,29000,552825,55282.5
+229,Slim & Fit Milk 312 gr,7,2023/01/25,January,80000,560076,56007.6
+230,Entrasol Active Chocolate 160 gram,8,2023/05/13,May,29000,232375,23237.5
+231,Entrasol Active Chocolate 160 gram,18,2023/01/14,January,29000,524280,52428
+232,Diabetasol Coklat 1 kg,4,2023/05/02,May,231000,925003,92500.3
+233,Fitbar Multigrain raisin 22 gram,12,2023/01/17,January,5000,62012,6201.2
+234,Entrasol Active Chocolate 160 gram,16,2023/04/10,April,29000,464016,46401.6
+235,Entrasol UHT Vanilla Latte 200 ml,8,2023/01/14,January,7000,57762,5776.2
+236,Diabetasol Wafer Coklat 100 gram,3,2023/2/15,February,28000,85066,8506.6
+237,Fitbar Multigrain raisin 22 gram,14,2023/01/24,January,5000,71803,7180.3
+238,Fitbar Multigrain raisin 22 gram,15,2023/04/16,April,5000,76262,7626.2
+239,Entrasol UHT Vanilla Latte 200 ml,7,2023/5/13,May,7000,50122,5012.2
+240,Fitbar Multigrain raisin 22 gram,20,2023/03/25,March,5000,100421,10042.1
+241,Hydro Coco Original 500 ml,1,2023/01/12,January,16500,18816,1881.6
+242,Fitbar Multigrain raisin 22 gram,17,2023/05/13,May,5000,86229,8622.9
+243,Fitbar Multigrain Tiramisu 22 gram,15,2023/03/30,March,4000,62058,6205.8
+244,Hydro Coco Original 500 ml,8,2023/05/08,May,16500,132002,13200.2
+245,Entrasol Active Vanilla Latte 160 gram,14,2023/01/29,January,29000,406499,40649.9
+246,Entrasol Active Chocolate 160 gram,19,2023/2/12,February,29000,551323,55132.3
+247,Fitbar Multigrain raisin 22 gram,9,2023/03/11,March,5000,45889,4588.9
+248,Entrasol Cereal 150 gram,13,2023/01/24,January,17000,222609,22260.9
+249,Entrasol Active Chocolate 160 gram,20,2023/1/31,January,29000,582072,58207.2
+250,Fitbar Multigrain raisin 22 gram,1,2023/04/15,April,5000,6793,679.3
+251,Slim & Fit Milk 312 gr,20,2023/04/14,April,80000,1602266,160226.6
+252,Fitbar Multigrain Tiramisu 22 gram,19,2023/04/08,April,4000,77516,7751.6
+253,Entrasol UHT Vanilla Latte 200 ml,18,2023/02/17,February,7000,126344,12634.4
+254,Fitbar Multigrain Tiramisu 22 gram,19,2023/03/15,March,4000,76130,7613
+255,Fitbar Multigrain raisin 22 gram,1,2023/02/25,February,5000,5796,579.6
+256,Slim & Fit Milk 312 gr,7,2023/3/9,March,80000,560082,56008.2
+257,Entrasol UHT Vanilla Latte 200 ml,14,2023/01/30,January,7000,99206,9920.6
+258,Slim & Fit Milk 312 gr,20,2023/04/25,April,80000,1600303,160030.3
+259,Entrasol Cereal 150 gram,4,2023/03/27,March,17000,68715,6871.5
+260,Entrasol Cereal 150 gram,7,2023/04/10,April,17000,121133,12113.3
+261,Entrasol Active Chocolate 160 gram,18,2023/01/20,January,29000,522384,52238.4
+262,Entrasol Cereal 150 gram,17,2023/2/11,February,17000,289993,28999.3
+263,Entrasol UHT Vanilla Latte 200 ml,5,2023/03/18,March,7000,35174,3517.4
+264,Fitbar Multigrain raisin 22 gram,11,2023/05/02,May,5000,56770,5677
+265,Fitbar Multigrain Tiramisu 22 gram,15,2023/02/24,February,4000,61066,6106.6
+266,Entrasol Cereal 150 gram,9,2023/05/06,May,17000,155127,15512.7
+267,Fitbar Multigrain Tiramisu 22 gram,9,2023/01/26,January,4000,38348,3834.8
+268,Hydro Coco Original 500 ml,1,2023/03/29,March,16500,17848,1784.8
+269,Entrasol Active Chocolate 160 gram,19,2023/04/26,April,29000,553358,55335.8
+270,Diabetasol Coklat 1 kg,11,2023/5/8,May,231000,2541215,254121.5
+271,Slim & Fit Milk 312 gr,4,2023/03/16,March,80000,320324,32032.4
+272,Slim & Fit Milk 312 gr,13,2023/01/02,January,80000,1040229,104022.9
+273,Diabetasol Wafer Coklat 100 gram,3,2023/1/10,January,28000,85813,8581.3
+274,Diabetasol Coklat 1 kg,7,2023/03/05,March,231000,1618662,161866.2
+275,Entrasol Active Vanilla Latte 160 gram,11,2023/04/13,April,29000,320649,32064.9
+276,Entrasol Cereal 150 gram,8,2023/04/30,April,17000,138062,13806.2
+277,Entrasol Active Vanilla Latte 160 gram,1,2023/04/17,April,29000,29936,2993.6
+278,Diabetasol Coklat 1 kg,1,2023/03/19,March,231000,232932,23293.2
+279,Slim & Fit Milk 312 gr,11,2023/05/09,May,80000,881392,88139.2
+280,Fitbar Multigrain raisin 22 gram,5,2023/04/06,April,5000,27246,2724.6
+281,Entrasol Active Chocolate 160 gram,15,2023/05/06,May,29000,436080,43608
+282,Diabetasol Coklat 1 kg,15,2023/01/24,January,231000,3467203,346720.3
+283,Entrasol Active Chocolate 160 gram,6,2023/02/23,February,29000,176357,17635.7
+284,Entrasol Active Chocolate 160 gram,3,2023/01/01,January,29000,89406,8940.6
+285,Entrasol Active Vanilla Latte 160 gram,19,2023/02/24,February,29000,552135,55213.5
+286,Hydro Coco Original 500 ml,1,2023/02/19,February,16500,18833,1883.3
+287,Hydro Coco Original 500 ml,16,2023/03/11,March,16500,266295,26629.5
+288,Hydro Coco Original 500 ml,20,2023/03/18,March,16500,331123,33112.3
+289,Entrasol Active Vanilla Latte 160 gram,20,2023/4/20,April,29000,580211,58021.1
+290,Fitbar Multigrain Tiramisu 22 gram,17,2023/02/01,February,4000,70264,7026.4
+291,Entrasol Active Vanilla Latte 160 gram,3,2023/03/06,March,29000,88019,8801.9
+292,Hydro Coco Original 500 ml,9,2023/03/07,March,16500,150884,15088.4
+293,Entrasol Active Chocolate 160 gram,15,2023/03/09,March,29000,435731,43573.1
+294,Hydro Coco Original 500 ml,17,2023/01/28,January,16500,281220,28122
+295,Fitbar Multigrain Tiramisu 22 gram,20,2023/05/10,May,4000,82347,8234.7
+296,Diabetasol Coklat 1 kg,7,2023/04/22,April,231000,1617166,161716.6
+297,Entrasol Active Chocolate 160 gram,16,2023/03/21,March,29000,466490,46649
+298,Entrasol Active Vanilla Latte 160 gram,15,2023/02/15,February,29000,435381,43538.1
+299,Fitbar Multigrain Tiramisu 22 gram,9,2023/02/04,February,4000,38117,3811.7
+300,Hydro Coco Original 500 ml,1,2023/05/11,May,16500,18331,1833.1
+301,Entrasol Cereal 150 gram,9,2023/04/03,April,17000,154192,15419.2
+302,Entrasol Active Vanilla Latte 160 gram,12,2023/03/24,March,29000,350463,35046.3
+303,Diabetasol Wafer Coklat 100 gram,4,2023/02/04,February,28000,113331,11333.1
+304,Entrasol Active Chocolate 160 gram,12,2023/02/07,February,29000,349929,34992.9
+305,Diabetasol Coklat 1 kg,18,2023/01/02,January,231000,4158918,415891.8
+306,Slim & Fit Milk 312 gr,6,2023/04/07,April,80000,481016,48101.6
+307,Slim & Fit Milk 312 gr,7,2023/3/8,March,80000,560571,56057.1
+308,Fitbar Multigrain Tiramisu 22 gram,3,2023/02/13,February,4000,13886,1388.6
+309,Fitbar Multigrain raisin 22 gram,1,2023/03/27,March,5000,6219,621.9
+310,Entrasol UHT Vanilla Latte 200 ml,19,2023/3/28,March,7000,133529,13352.9
+311,Diabetasol Wafer Coklat 100 gram,19,2023/2/28,February,28000,532435,53243.5
+312,Hydro Coco Original 500 ml,10,2023/03/19,March,16500,166961,16696.1
+313,Entrasol Active Vanilla Latte 160 gram,6,2023/05/05,May,29000,175213,17521.3
+314,Diabetasol Coklat 1 kg,1,2023/05/11,May,231000,233305,23330.5
+315,Diabetasol Wafer Coklat 100 gram,13,2023/2/1,February,28000,364602,36460.2
+316,Entrasol Active Vanilla Latte 160 gram,7,2023/01/20,January,29000,203230,20323
+317,Fitbar Multigrain raisin 22 gram,4,2023/01/10,January,5000,20148,2014.8
+318,Diabetasol Wafer Coklat 100 gram,8,2023/2/12,February,28000,224428,22442.8
+319,Fitbar Multigrain Tiramisu 22 gram,5,2023/2/24,February,4000,22046,2204.6
+320,Entrasol Active Vanilla Latte 160 gram,16,2023/04/04,April,29000,465397,46539.7
+321,Entrasol Active Vanilla Latte 160 gram,18,2023/01/05,January,29000,523317,52331.7
+322,Fitbar Multigrain raisin 22 gram,11,2023/02/25,February,5000,57038,5703.8
+323,Fitbar Multigrain Tiramisu 22 gram,8,2023/03/08,March,4000,32503,3250.3
+324,Entrasol UHT Vanilla Latte 200 ml,6,2023/5/5,May,7000,43014,4301.4
+325,Fitbar Multigrain raisin 22 gram,5,2023/3/2,March,5000,26561,2656.1
+326,Diabetasol Coklat 1 kg,13,2023/03/26,March,231000,3004479,300447.9
+327,Diabetasol Coklat 1 kg,10,2023/03/07,March,231000,2312062,231206.2
+328,Entrasol Active Vanilla Latte 160 gram,7,2023/04/10,April,29000,203858,20385.8
+329,Diabetasol Wafer Coklat 100 gram,13,2023/01/10,January,28000,365861,36586.1
+330,Hydro Coco Original 500 ml,4,2023/01/11,January,16500,67371,6737.1
+331,Entrasol Active Chocolate 160 gram,14,2023/02/05,February,29000,407053,40705.3
+332,Slim & Fit Milk 312 gr,15,2023/03/14,March,80000,1201000,120100
+333,Fitbar Multigrain Tiramisu 22 gram,6,2023/04/09,April,4000,24595,2459.5
+334,Fitbar Multigrain Tiramisu 22 gram,18,2023/02/28,February,4000,72494,7249.4
+335,Hydro Coco Original 500 ml,15,2023/1/22,January,16500,248987,24898.7
+336,Entrasol UHT Vanilla Latte 200 ml,12,2023/01/07,January,7000,85256,8525.6
+337,Diabetasol Coklat 1 kg,1,2023/02/04,February,231000,231105,23110.5
+338,Entrasol Active Vanilla Latte 160 gram,4,2023/04/08,April,29000,117397,11739.7
+339,Entrasol Active Vanilla Latte 160 gram,12,2023/1/30,January,29000,348886,34888.6
+340,Hydro Coco Original 500 ml,15,2023/05/09,May,16500,249095,24909.5
+341,Entrasol Active Vanilla Latte 160 gram,7,2023/04/08,April,29000,204574,20457.4
+342,Diabetasol Wafer Coklat 100 gram,18,2023/03/04,March,28000,506045,50604.5
+343,Diabetasol Coklat 1 kg,4,2023/04/08,April,231000,926188,92618.8
+344,Hydro Coco Original 500 ml,9,2023/03/19,March,16500,148729,14872.9
+345,Entrasol UHT Vanilla Latte 200 ml,8,2023/2/13,February,7000,56556,5655.6
+346,Fitbar Multigrain raisin 22 gram,20,2023/03/06,March,5000,100815,10081.5
+347,Fitbar Multigrain raisin 22 gram,19,2023/1/5,January,5000,95277,9527.7
+348,Entrasol UHT Vanilla Latte 200 ml,20,2023/02/28,February,7000,142024,14202.4
+349,Slim & Fit Milk 312 gr,10,2023/05/01,May,80000,800673,80067.3
+350,Entrasol UHT Vanilla Latte 200 ml,8,2023/03/06,March,7000,56141,5614.1
+351,Entrasol Active Vanilla Latte 160 gram,10,2023/4/10,April,29000,292348,29234.8
+352,Entrasol Active Vanilla Latte 160 gram,14,2023/05/12,May,29000,407054,40705.4
+353,Diabetasol Coklat 1 kg,8,2023/02/13,February,231000,1849038,184903.8
+354,Slim & Fit Milk 312 gr,19,2023/04/22,April,80000,1521100,152110
+355,Hydro Coco Original 500 ml,15,2023/01/17,January,16500,247917,24791.7
+356,Entrasol Active Chocolate 160 gram,3,2023/03/03,March,29000,89090,8909
+357,Slim & Fit Milk 312 gr,4,2023/04/01,April,80000,321510,32151
+358,Fitbar Multigrain raisin 22 gram,17,2023/02/06,February,5000,86759,8675.9
+359,Diabetasol Wafer Coklat 100 gram,17,2023/1/27,January,28000,476252,47625.2
+360,Entrasol Cereal 150 gram,16,2023/03/30,March,17000,273497,27349.7
+361,Hydro Coco Original 500 ml,3,2023/2/5,February,16500,50655,5065.5
+362,Entrasol Active Vanilla Latte 160 gram,19,2023/02/09,February,29000,552150,55215
+363,Fitbar Multigrain raisin 22 gram,10,2023/02/03,February,5000,50897,5089.7
+364,Entrasol Active Chocolate 160 gram,20,2023/01/31,January,29000,581026,58102.6
+365,Entrasol Cereal 150 gram,4,2023/3/16,March,17000,70119,7011.9
+366,Fitbar Multigrain Tiramisu 22 gram,8,2023/5/3,May,4000,32767,3276.7
+367,Slim & Fit Milk 312 gr,12,2023/01/10,January,80000,960668,96066.8
+368,Entrasol Active Chocolate 160 gram,19,2023/04/19,April,29000,551711,55171.1
+369,Entrasol Active Chocolate 160 gram,13,2023/01/13,January,29000,377692,37769.2
+370,Entrasol Active Chocolate 160 gram,8,2023/04/23,April,29000,233556,23355.6
+371,Entrasol Active Chocolate 160 gram,15,2023/02/17,February,29000,436218,43621.8
+372,Entrasol Cereal 150 gram,9,2023/3/5,March,17000,155109,15510.9
+373,Fitbar Multigrain raisin 22 gram,2,2023/03/25,March,5000,12438,1243.8
+374,Entrasol Cereal 150 gram,8,2023/04/02,April,17000,137469,13746.9
+375,Fitbar Multigrain raisin 22 gram,7,2023/4/2,April,5000,36225,3622.5
+376,Entrasol Active Vanilla Latte 160 gram,9,2023/02/22,February,29000,261388,26138.8
+377,Entrasol Active Chocolate 160 gram,1,2023/04/02,April,29000,30122,3012.2
+378,Fitbar Multigrain raisin 22 gram,7,2023/05/04,May,5000,36728,3672.8
+379,Hydro Coco Original 500 ml,17,2023/02/25,February,16500,280784,28078.4
+380,Fitbar Multigrain Tiramisu 22 gram,13,2023/05/04,May,4000,52817,5281.7
+381,Diabetasol Coklat 1 kg,6,2023/02/01,February,231000,1388042,138804.2
+382,Diabetasol Coklat 1 kg,11,2023/02/06,February,231000,2542552,254255.2
+383,Entrasol Active Vanilla Latte 160 gram,16,2023/04/26,April,29000,465795,46579.5
+384,Hydro Coco Original 500 ml,18,2023/02/12,February,16500,299024,29902.4
+385,Hydro Coco Original 500 ml,3,2023/04/13,April,16500,51023,5102.3
+386,Entrasol Cereal 150 gram,2,2023/04/12,April,17000,35280,3528
+387,Diabetasol Coklat 1 kg,20,2023/02/25,February,231000,4620965,462096.5
+388,Diabetasol Coklat 1 kg,12,2023/03/22,March,231000,2774443,277444.3
+389,Fitbar Multigrain Tiramisu 22 gram,4,2023/01/01,January,4000,16971,1697.1
+390,Entrasol UHT Vanilla Latte 200 ml,1,2023/03/06,March,7000,9389,938.9
+391,Diabetasol Wafer Coklat 100 gram,12,2023/05/06,May,28000,336532,33653.2
+392,Slim & Fit Milk 312 gr,7,2023/02/23,February,80000,560254,56025.4
+393,Entrasol Active Vanilla Latte 160 gram,11,2023/01/01,January,29000,319827,31982.7
+394,Slim & Fit Milk 312 gr,13,2023/01/15,January,80000,1040147,104014.7
+395,Diabetasol Coklat 1 kg,15,2023/03/09,March,231000,3467427,346742.7
+396,Diabetasol Coklat 1 kg,14,2023/04/24,April,231000,3234678,323467.8
+397,Diabetasol Wafer Coklat 100 gram,1,2023/02/14,February,28000,30166,3016.6
+398,Hydro Coco Original 500 ml,12,2023/02/23,February,16500,198261,19826.1
+399,Entrasol Active Chocolate 160 gram,2,2023/01/02,January,29000,58835,5883.5
+400,Hydro Coco Original 500 ml,16,2023/04/28,April,16500,264373,26437.3
+401,Entrasol Active Vanilla Latte 160 gram,15,2023/03/29,March,29000,436451,43645.1
+402,Hydro Coco Original 500 ml,1,2023/04/15,April,16500,16586,1658.6
+403,Hydro Coco Original 500 ml,3,2023/01/07,January,16500,50567,5056.7
+404,Fitbar Multigrain Tiramisu 22 gram,17,2023/04/27,April,4000,69861,6986.1
+405,Entrasol UHT Vanilla Latte 200 ml,9,2023/01/16,January,7000,65087,6508.7
+406,Entrasol Cereal 150 gram,13,2023/03/31,March,17000,221195,22119.5
+407,Entrasol Active Chocolate 160 gram,4,2023/1/22,January,29000,117611,11761.1
+408,Diabetasol Wafer Coklat 100 gram,1,2023/03/08,March,28000,29233,2923.3
+409,Hydro Coco Original 500 ml,17,2023/03/11,March,16500,282986,28298.6
+410,Entrasol Cereal 150 gram,2,2023/03/21,March,17000,34791,3479.1
+411,Fitbar Multigrain Tiramisu 22 gram,4,2023/01/24,January,4000,17498,1749.8
+412,Hydro Coco Original 500 ml,2,2023/04/29,April,16500,33133,3313.3
+413,Slim & Fit Milk 312 gr,1,2023/02/27,February,80000,81791,8179.1
+414,Fitbar Multigrain raisin 22 gram,6,2023/03/09,March,5000,32211,3221.1
+415,Fitbar Multigrain raisin 22 gram,12,2023/02/20,February,5000,61377,6137.7
+416,Hydro Coco Original 500 ml,14,2023/02/26,February,16500,231394,23139.4
+417,Fitbar Multigrain Tiramisu 22 gram,6,2023/1/15,January,4000,25231,2523.1
+418,Entrasol Active Vanilla Latte 160 gram,4,2023/02/28,February,29000,118017,11801.7
+419,Entrasol UHT Vanilla Latte 200 ml,15,2023/04/26,April,7000,107175,10717.5
+420,Slim & Fit Milk 312 gr,17,2023/03/13,March,80000,1361936,136193.6
+421,Hydro Coco Original 500 ml,13,2023/01/27,January,16500,215793,21579.3
+422,Fitbar Multigrain Tiramisu 22 gram,5,2023/03/07,March,4000,20437,2043.7
+423,Entrasol UHT Vanilla Latte 200 ml,9,2023/02/24,February,7000,65338,6533.8
+424,Entrasol Active Vanilla Latte 160 gram,1,2023/03/27,March,29000,30480,3048
+425,Entrasol UHT Vanilla Latte 200 ml,2,2023/01/21,January,7000,14018,1401.8
+426,Hydro Coco Original 500 ml,15,2023/04/19,April,16500,248707,24870.7
+427,Diabetasol Wafer Coklat 100 gram,4,2023/05/04,May,28000,112855,11285.5
+428,Entrasol Active Chocolate 160 gram,19,2023/04/27,April,29000,552378,55237.8
+429,Diabetasol Wafer Coklat 100 gram,10,2023/02/01,February,28000,280726,28072.6
+430,Entrasol Cereal 150 gram,1,2023/02/09,February,17000,18160,1816
+431,Entrasol Active Vanilla Latte 160 gram,5,2023/04/25,April,29000,146193,14619.3
+432,Diabetasol Coklat 1 kg,6,2023/03/06,March,231000,1387840,138784
+433,Entrasol UHT Vanilla Latte 200 ml,6,2023/01/15,January,7000,42853,4285.3
+434,Diabetasol Coklat 1 kg,7,2023/05/07,May,231000,1618748,161874.8
+435,Diabetasol Wafer Coklat 100 gram,15,2023/01/23,January,28000,420740,42074
+436,Fitbar Multigrain raisin 22 gram,11,2023/01/28,January,5000,56121,5612.1
+437,Diabetasol Wafer Coklat 100 gram,20,2023/02/01,February,28000,562391,56239.1
+438,Fitbar Multigrain Tiramisu 22 gram,15,2023/04/28,April,4000,61476,6147.6
+439,Slim & Fit Milk 312 gr,9,2023/02/07,February,80000,721589,72158.9
+440,Fitbar Multigrain Tiramisu 22 gram,8,2023/02/20,February,4000,33737,3373.7
+441,Fitbar Multigrain Tiramisu 22 gram,17,2023/01/05,January,4000,69061,6906.1
+442,Entrasol UHT Vanilla Latte 200 ml,7,2023/1/26,January,7000,49111,4911.1
+443,Diabetasol Coklat 1 kg,5,2023/04/10,April,231000,1156230,115623
+444,Diabetasol Coklat 1 kg,14,2023/03/26,March,231000,3235586,323558.6
+445,Diabetasol Coklat 1 kg,2,2023/02/26,February,231000,462945,46294.5
+446,Entrasol Cereal 150 gram,11,2023/04/22,April,17000,187882,18788.2
+447,Fitbar Multigrain raisin 22 gram,1,2023/05/03,May,5000,6212,621.2
+448,Fitbar Multigrain raisin 22 gram,17,2023/01/21,January,5000,86912,8691.2
+449,Diabetasol Wafer Coklat 100 gram,4,2023/01/08,January,28000,113232,11323.2
+450,Entrasol Cereal 150 gram,16,2023/03/13,March,17000,272747,27274.7
+451,Slim & Fit Milk 312 gr,18,2023/03/09,March,80000,1440398,144039.8
+452,Diabetasol Wafer Coklat 100 gram,15,2023/05/03,May,28000,421860,42186
+453,Entrasol UHT Vanilla Latte 200 ml,3,2023/01/13,January,7000,23087,2308.7
+454,Fitbar Multigrain raisin 22 gram,1,2023/04/25,April,5000,6237,623.7
+455,Entrasol Active Vanilla Latte 160 gram,10,2023/3/10,March,29000,292179,29217.9
+456,Fitbar Multigrain raisin 22 gram,4,2023/02/10,February,5000,21981,2198.1
+457,Entrasol UHT Vanilla Latte 200 ml,7,2023/03/09,March,7000,51390,5139
+458,Entrasol Active Vanilla Latte 160 gram,12,2023/2/25,February,29000,348751,34875.1
+459,Fitbar Multigrain raisin 22 gram,8,2023/04/03,April,5000,41863,4186.3
+460,Entrasol UHT Vanilla Latte 200 ml,4,2023/01/25,January,7000,29369,2936.9
+461,Fitbar Multigrain raisin 22 gram,19,2023/1/21,January,5000,95714,9571.4
+462,Entrasol Active Vanilla Latte 160 gram,7,2023/03/24,March,29000,204152,20415.2
+463,Hydro Coco Original 500 ml,1,2023/02/07,February,16500,17986,1798.6
+464,Entrasol Active Chocolate 160 gram,20,2023/1/27,January,29000,580286,58028.6
+465,Entrasol Active Chocolate 160 gram,3,2023/01/17,January,29000,89426,8942.6
+466,Fitbar Multigrain raisin 22 gram,10,2023/5/5,May,5000,51907,5190.7
+467,Entrasol UHT Vanilla Latte 200 ml,7,2023/03/05,March,7000,50913,5091.3
+468,Fitbar Multigrain raisin 22 gram,9,2023/03/09,March,5000,46952,4695.2
+469,Diabetasol Wafer Coklat 100 gram,4,2023/02/28,February,28000,112191,11219.1
+470,Hydro Coco Original 500 ml,3,2023/02/23,February,16500,51009,5100.9
+471,Slim & Fit Milk 312 gr,19,2023/04/30,April,80000,1521415,152141.5
+472,Fitbar Multigrain raisin 22 gram,10,2023/01/03,January,5000,51394,5139.4
+473,Entrasol Cereal 150 gram,20,2023/01/15,January,17000,342495,34249.5
+474,Hydro Coco Original 500 ml,9,2023/2/25,February,16500,149377,14937.7
+475,Diabetasol Wafer Coklat 100 gram,17,2023/01/02,January,28000,476819,47681.9
+476,Slim & Fit Milk 312 gr,19,2023/03/01,March,80000,1520623,152062.3
+477,Diabetasol Wafer Coklat 100 gram,3,2023/3/8,March,28000,86432,8643.2
+478,Diabetasol Wafer Coklat 100 gram,14,2023/2/14,February,28000,393914,39391.4
+479,Diabetasol Coklat 1 kg,9,2023/1/30,January,231000,2079404,207940.4
+480,Diabetasol Coklat 1 kg,2,2023/05/10,May,231000,462604,46260.4
+481,Hydro Coco Original 500 ml,13,2023/04/29,April,16500,216637,21663.7
+482,Fitbar Multigrain raisin 22 gram,2,2023/04/17,April,5000,11413,1141.3
+483,Fitbar Multigrain raisin 22 gram,17,2023/01/27,January,5000,85431,8543.1
+484,Entrasol UHT Vanilla Latte 200 ml,15,2023/05/05,May,7000,106444,10644.4
+485,Entrasol Active Vanilla Latte 160 gram,5,2023/05/02,May,29000,146675,14667.5
+486,Entrasol UHT Vanilla Latte 200 ml,2,2023/01/23,January,7000,15034,1503.4
+487,Entrasol UHT Vanilla Latte 200 ml,4,2023/01/02,January,7000,28539,2853.9
+488,Hydro Coco Original 500 ml,20,2023/1/14,January,16500,330429,33042.9
+489,Diabetasol Coklat 1 kg,7,2023/04/27,April,231000,1617076,161707.6
+490,Entrasol Cereal 150 gram,4,2023/2/7,February,17000,68576,6857.6
+491,Hydro Coco Original 500 ml,2,2023/01/21,January,16500,33749,3374.9
+492,Entrasol UHT Vanilla Latte 200 ml,3,2023/02/04,February,7000,21518,2151.8
+493,Fitbar Multigrain Tiramisu 22 gram,3,2023/03/12,March,4000,12449,1244.9
+494,Entrasol Active Vanilla Latte 160 gram,14,2023/04/10,April,29000,407867,40786.7
+495,Fitbar Multigrain Tiramisu 22 gram,8,2023/05/01,May,4000,32920,3292
+496,Diabetasol Wafer Coklat 100 gram,3,2023/03/19,March,28000,86157,8615.7
+497,Diabetasol Wafer Coklat 100 gram,2,2023/03/12,March,28000,56747,5674.7
+498,Slim & Fit Milk 312 gr,12,2023/02/16,February,80000,961611,96161.1
+499,Slim & Fit Milk 312 gr,4,2023/01/12,January,80000,321312,32131.2
+500,Hydro Coco Original 500 ml,12,2023/05/07,May,16500,199285,19928.5
+501,Hydro Coco Original 500 ml,11,2023/01/17,January,16500,183309,18330.9
+502,Slim & Fit Milk 312 gr,2,2023/04/13,April,80000,161154,16115.4
+503,Slim & Fit Milk 312 gr,18,2023/02/18,February,80000,1441799,144179.9
+504,Hydro Coco Original 500 ml,18,2023/3/18,March,16500,298189,29818.9
+505,Diabetasol Coklat 1 kg,3,2023/03/20,March,231000,695186,69518.6
+506,Entrasol Cereal 150 gram,11,2023/04/22,April,17000,188716,18871.6
+507,Diabetasol Wafer Coklat 100 gram,15,2023/02/11,February,28000,421343,42134.3
+508,Entrasol Active Vanilla Latte 160 gram,17,2023/04/23,April,29000,493382,49338.2
+509,Diabetasol Coklat 1 kg,19,2023/02/13,February,231000,4389108,438910.8
+510,Hydro Coco Original 500 ml,1,2023/02/24,February,16500,16729,1672.9
+511,Entrasol UHT Vanilla Latte 200 ml,15,2023/2/24,February,7000,105020,10502
+512,Entrasol UHT Vanilla Latte 200 ml,8,2023/04/14,April,7000,56533,5653.3
+513,Diabetasol Wafer Coklat 100 gram,2,2023/02/01,February,28000,57641,5764.1
+514,Entrasol UHT Vanilla Latte 200 ml,9,2023/05/06,May,7000,64092,6409.2
+515,Fitbar Multigrain Tiramisu 22 gram,9,2023/02/03,February,4000,36758,3675.8
+516,Diabetasol Wafer Coklat 100 gram,12,2023/03/24,March,28000,338499,33849.9
+517,Diabetasol Coklat 1 kg,3,2023/04/29,April,231000,693658,69365.8
+518,Diabetasol Coklat 1 kg,19,2023/05/05,May,231000,4389257,438925.7
+519,Entrasol UHT Vanilla Latte 200 ml,10,2023/02/15,February,7000,71882,7188.2
+520,Diabetasol Wafer Coklat 100 gram,13,2023/2/20,February,28000,366396,36639.6
+521,Diabetasol Coklat 1 kg,15,2023/03/06,March,231000,3465778,346577.8
+522,Fitbar Multigrain Tiramisu 22 gram,18,2023/01/27,January,4000,72257,7225.7
+523,Entrasol Active Chocolate 160 gram,9,2023/5/5,May,29000,263211,26321.1
+524,Entrasol Active Chocolate 160 gram,17,2023/03/13,March,29000,493730,49373
+525,Diabetasol Wafer Coklat 100 gram,11,2023/03/20,March,28000,309749,30974.9
+526,Entrasol Active Vanilla Latte 160 gram,19,2023/02/25,February,29000,551424,55142.4
+527,Entrasol UHT Vanilla Latte 200 ml,2,2023/4/10,April,7000,14202,1420.2
+528,Slim & Fit Milk 312 gr,16,2023/01/15,January,80000,1280975,128097.5
+529,Entrasol Active Vanilla Latte 160 gram,7,2023/02/05,February,29000,203554,20355.4
+530,Fitbar Multigrain Tiramisu 22 gram,10,2023/04/21,April,4000,40782,4078.2
+531,Hydro Coco Original 500 ml,14,2023/01/28,January,16500,231024,23102.4
+532,Entrasol Active Vanilla Latte 160 gram,3,2023/02/08,February,29000,89127,8912.7
+533,Entrasol Active Chocolate 160 gram,14,2023/02/11,February,29000,406669,40666.9
+534,Fitbar Multigrain raisin 22 gram,16,2023/01/11,January,5000,80765,8076.5
+535,Fitbar Multigrain Tiramisu 22 gram,4,2023/03/07,March,4000,16488,1648.8
+536,Entrasol Active Vanilla Latte 160 gram,10,2023/02/18,February,29000,290189,29018.9
+537,Hydro Coco Original 500 ml,13,2023/04/13,April,16500,215930,21593
+538,Diabetasol Wafer Coklat 100 gram,19,2023/05/12,May,28000,532166,53216.6
+539,Diabetasol Wafer Coklat 100 gram,17,2023/04/01,April,28000,478466,47846.6
+540,Diabetasol Coklat 1 kg,6,2023/01/11,January,231000,1387178,138717.8
+541,Entrasol Cereal 150 gram,18,2023/2/3,February,17000,306934,30693.4
+542,Hydro Coco Original 500 ml,18,2023/05/07,May,16500,298942,29894.2
+543,Entrasol Cereal 150 gram,1,2023/03/15,March,17000,18701,1870.1
+544,Entrasol Cereal 150 gram,19,2023/04/27,April,17000,323672,32367.2
+545,Diabetasol Coklat 1 kg,19,2023/1/20,January,231000,4389210,438921
+546,Entrasol Active Vanilla Latte 160 gram,11,2023/04/23,April,29000,321257,32125.7
+547,Entrasol UHT Vanilla Latte 200 ml,7,2023/01/31,January,7000,50928,5092.8
+548,Diabetasol Wafer Coklat 100 gram,11,2023/02/20,February,28000,310183,31018.3
+549,Entrasol UHT Vanilla Latte 200 ml,1,2023/01/12,January,7000,8103,810.3
+550,Hydro Coco Original 500 ml,12,2023/04/27,April,16500,200425,20042.5
+551,Slim & Fit Milk 312 gr,2,2023/4/9,April,80000,160283,16028.3
+552,Diabetasol Wafer Coklat 100 gram,17,2023/02/01,February,28000,477003,47700.3
+553,Entrasol Active Chocolate 160 gram,2,2023/03/25,March,29000,58455,5845.5
+554,Entrasol Active Vanilla Latte 160 gram,6,2023/03/13,March,29000,174197,17419.7
+555,Diabetasol Coklat 1 kg,10,2023/02/19,February,231000,2310741,231074.1
+556,Hydro Coco Original 500 ml,7,2023/01/05,January,16500,117504,11750.4
+557,Diabetasol Coklat 1 kg,20,2023/03/30,March,231000,4621156,462115.6
+558,Entrasol UHT Vanilla Latte 200 ml,20,2023/05/12,May,7000,141620,14162
+559,Fitbar Multigrain Tiramisu 22 gram,11,2023/04/25,April,4000,45713,4571.3
+560,Fitbar Multigrain Tiramisu 22 gram,18,2023/02/04,February,4000,73285,7328.5
+561,Hydro Coco Original 500 ml,11,2023/03/18,March,16500,182989,18298.9
+562,Slim & Fit Milk 312 gr,13,2023/02/15,February,80000,1042043,104204.3
+563,Entrasol Active Chocolate 160 gram,4,2023/1/3,January,29000,116934,11693.4
+564,Entrasol Active Chocolate 160 gram,11,2023/03/15,March,29000,319385,31938.5
+565,Entrasol UHT Vanilla Latte 200 ml,13,2023/03/25,March,7000,91560,9156
+566,Diabetasol Wafer Coklat 100 gram,3,2023/02/03,February,28000,84651,8465.1
+567,Diabetasol Wafer Coklat 100 gram,15,2023/04/17,April,28000,421962,42196.2
+568,Diabetasol Wafer Coklat 100 gram,20,2023/01/10,January,28000,560270,56027
+569,Entrasol Cereal 150 gram,12,2023/1/17,January,17000,205690,20569
+570,Hydro Coco Original 500 ml,5,2023/04/06,April,16500,84783,8478.3
+571,Entrasol UHT Vanilla Latte 200 ml,3,2023/02/23,February,7000,22898,2289.8
+572,Entrasol Active Vanilla Latte 160 gram,13,2023/4/26,April,29000,377607,37760.7
+573,Fitbar Multigrain raisin 22 gram,4,2023/04/17,April,5000,20247,2024.7
+574,Diabetasol Wafer Coklat 100 gram,16,2023/4/1,April,28000,448603,44860.3
+575,Entrasol Cereal 150 gram,11,2023/03/01,March,17000,188887,18888.7
+576,Entrasol Active Chocolate 160 gram,4,2023/02/08,February,29000,116401,11640.1
+577,Hydro Coco Original 500 ml,20,2023/02/24,February,16500,332376,33237.6
+578,Diabetasol Wafer Coklat 100 gram,8,2023/05/09,May,28000,224660,22466
+579,Diabetasol Wafer Coklat 100 gram,19,2023/01/03,January,28000,532547,53254.7
+580,Diabetasol Wafer Coklat 100 gram,18,2023/4/20,April,28000,505394,50539.4
+581,Fitbar Multigrain raisin 22 gram,19,2023/03/07,March,5000,96362,9636.2
+582,Fitbar Multigrain raisin 22 gram,8,2023/02/08,February,5000,41162,4116.2
+583,Slim & Fit Milk 312 gr,3,2023/03/23,March,80000,240703,24070.3
+584,Entrasol Active Vanilla Latte 160 gram,3,2023/04/18,April,29000,87711,8771.1
+585,Slim & Fit Milk 312 gr,7,2023/03/06,March,80000,561672,56167.2
+586,Entrasol Cereal 150 gram,8,2023/4/13,April,17000,136284,13628.4
+587,Entrasol Active Chocolate 160 gram,2,2023/01/18,January,29000,59665,5966.5
+588,Fitbar Multigrain raisin 22 gram,11,2023/01/23,January,5000,56598,5659.8
+589,Hydro Coco Original 500 ml,18,2023/05/06,May,16500,298782,29878.2
+590,Entrasol Active Vanilla Latte 160 gram,8,2023/05/07,May,29000,232725,23272.5
+591,Entrasol Active Vanilla Latte 160 gram,2,2023/02/10,February,29000,58294,5829.4
+592,Fitbar Multigrain raisin 22 gram,19,2023/05/10,May,5000,95711,9571.1
+593,Entrasol Active Vanilla Latte 160 gram,19,2023/2/26,February,29000,551952,55195.2
+594,Entrasol Cereal 150 gram,16,2023/04/09,April,17000,272152,27215.2
+595,Entrasol UHT Vanilla Latte 200 ml,9,2023/05/10,May,7000,64775,6477.5
+596,Fitbar Multigrain Tiramisu 22 gram,19,2023/05/07,May,4000,78327,7832.7
+597,Entrasol Active Chocolate 160 gram,16,2023/03/11,March,29000,466011,46601.1
+598,Entrasol Cereal 150 gram,13,2023/3/26,March,17000,223167,22316.7
+599,Entrasol Active Chocolate 160 gram,3,2023/5/12,May,29000,87252,8725.2
+600,Fitbar Multigrain raisin 22 gram,20,2023/01/28,January,5000,101453,10145.3
+601,Diabetasol Coklat 1 kg,15,2023/02/14,February,231000,3466993,346699.3
+602,Entrasol Active Vanilla Latte 160 gram,20,2023/4/15,April,29000,580360,58036
+603,Entrasol Active Chocolate 160 gram,6,2023/04/10,April,29000,174486,17448.6
+604,Entrasol Active Vanilla Latte 160 gram,17,2023/02/24,February,29000,494790,49479
+605,Diabetasol Wafer Coklat 100 gram,4,2023/03/08,March,28000,112178,11217.8
+606,Slim & Fit Milk 312 gr,9,2023/4/16,April,80000,721565,72156.5
+607,Entrasol Cereal 150 gram,18,2023/04/02,April,17000,307678,30767.8
+608,Slim & Fit Milk 312 gr,14,2023/02/06,February,80000,1120635,112063.5
+609,Fitbar Multigrain Tiramisu 22 gram,15,2023/01/16,January,4000,61160,6116
+610,Entrasol UHT Vanilla Latte 200 ml,3,2023/05/11,May,7000,22344,2234.4
+611,Diabetasol Coklat 1 kg,7,2023/01/27,January,231000,1618401,161840.1
+612,Entrasol UHT Vanilla Latte 200 ml,16,2023/04/19,April,7000,113284,11328.4
+613,Fitbar Multigrain Tiramisu 22 gram,13,2023/02/20,February,4000,53515,5351.5
+614,Hydro Coco Original 500 ml,17,2023/04/15,April,16500,280851,28085.1
+615,Fitbar Multigrain Tiramisu 22 gram,9,2023/1/21,January,4000,36867,3686.7
+616,Entrasol Cereal 150 gram,12,2023/04/29,April,17000,205721,20572.1
+617,Fitbar Multigrain raisin 22 gram,10,2023/02/08,February,5000,50046,5004.6
+618,Entrasol Active Vanilla Latte 160 gram,5,2023/01/23,January,29000,146686,14668.6
+619,Fitbar Multigrain Tiramisu 22 gram,18,2023/01/15,January,4000,72284,7228.4
+620,Fitbar Multigrain raisin 22 gram,8,2023/05/07,May,5000,41331,4133.1
+621,Entrasol Active Vanilla Latte 160 gram,18,2023/02/08,February,29000,522786,52278.6
+622,Fitbar Multigrain Tiramisu 22 gram,18,2023/04/03,April,4000,73923,7392.3
+623,Entrasol Active Chocolate 160 gram,8,2023/02/07,February,29000,234174,23417.4
+624,Entrasol Active Chocolate 160 gram,15,2023/02/06,February,29000,435149,43514.9
+625,Diabetasol Wafer Coklat 100 gram,20,2023/01/31,January,28000,560103,56010.3
+626,Entrasol Active Vanilla Latte 160 gram,12,2023/03/10,March,29000,350090,35009
+627,Diabetasol Coklat 1 kg,13,2023/01/21,January,231000,3004322,300432.2
+628,Fitbar Multigrain raisin 22 gram,20,2023/01/10,January,5000,100150,10015
+629,Diabetasol Coklat 1 kg,14,2023/04/10,April,231000,3235794,323579.4
+630,Fitbar Multigrain Tiramisu 22 gram,1,2023/04/23,April,4000,5917,591.7
+631,Entrasol Cereal 150 gram,12,2023/03/30,March,17000,206406,20640.6
+632,Entrasol UHT Vanilla Latte 200 ml,16,2023/04/19,April,7000,112374,11237.4
+633,Hydro Coco Original 500 ml,5,2023/03/12,March,16500,84446,8444.6
+634,Slim & Fit Milk 312 gr,3,2023/4/8,April,80000,241291,24129.1
+635,Diabetasol Wafer Coklat 100 gram,3,2023/01/03,January,28000,84433,8443.3
+636,Entrasol Active Vanilla Latte 160 gram,16,2023/3/20,March,29000,466227,46622.7
+637,Diabetasol Coklat 1 kg,13,2023/04/27,April,231000,3004187,300418.7
+638,Hydro Coco Original 500 ml,3,2023/04/24,April,16500,51476,5147.6
+639,Entrasol Active Vanilla Latte 160 gram,5,2023/05/06,May,29000,147313,14731.3
+640,Hydro Coco Original 500 ml,7,2023/01/14,January,16500,116076,11607.6
+641,Entrasol Cereal 150 gram,4,2023/03/02,March,17000,68632,6863.2
+642,Diabetasol Coklat 1 kg,19,2023/4/6,April,231000,4389266,438926.6
+643,Entrasol Active Chocolate 160 gram,13,2023/03/19,March,29000,377203,37720.3
+644,Diabetasol Wafer Coklat 100 gram,17,2023/04/14,April,28000,476401,47640.1
+645,Entrasol Cereal 150 gram,9,2023/05/01,May,17000,154937,15493.7
+646,Entrasol Cereal 150 gram,2,2023/01/30,January,17000,36410,3641
+647,Slim & Fit Milk 312 gr,16,2023/01/21,January,80000,1281280,128128
+648,Slim & Fit Milk 312 gr,4,2023/04/15,April,80000,320007,32000.7
+649,Diabetasol Wafer Coklat 100 gram,15,2023/04/03,April,28000,421337,42133.7
+650,Slim & Fit Milk 312 gr,17,2023/04/18,April,80000,1361760,136176
+651,Fitbar Multigrain raisin 22 gram,4,2023/03/16,March,5000,21659,2165.9
+652,Diabetasol Coklat 1 kg,7,2023/02/08,February,231000,1617505,161750.5
+653,Entrasol Cereal 150 gram,6,2023/3/3,March,17000,104469,10446.9
+654,Diabetasol Wafer Coklat 100 gram,11,2023/03/08,March,28000,310356,31035.6
+655,Diabetasol Wafer Coklat 100 gram,18,2023/03/16,March,28000,506003,50600.3
+656,Fitbar Multigrain Tiramisu 22 gram,7,2023/01/22,January,4000,30076,3007.6
+657,Diabetasol Wafer Coklat 100 gram,18,2023/04/10,April,28000,504464,50446.4
+658,Hydro Coco Original 500 ml,9,2023/4/27,April,16500,148738,14873.8
+659,Fitbar Multigrain raisin 22 gram,3,2023/01/07,January,5000,16196,1619.6
+660,Diabetasol Coklat 1 kg,20,2023/02/11,February,231000,4620694,462069.4
+661,Slim & Fit Milk 312 gr,9,2023/01/09,January,80000,720556,72055.6
+662,Fitbar Multigrain Tiramisu 22 gram,14,2023/04/14,April,4000,57603,5760.3
+663,Diabetasol Coklat 1 kg,1,2023/02/20,February,231000,231044,23104.4
+664,Slim & Fit Milk 312 gr,17,2023/3/1,March,80000,1361888,136188.8
+665,Entrasol UHT Vanilla Latte 200 ml,11,2023/04/15,April,7000,77384,7738.4
+666,Diabetasol Wafer Coklat 100 gram,1,2023/05/10,May,28000,28537,2853.7
+667,Slim & Fit Milk 312 gr,9,2023/04/16,April,80000,721634,72163.4
+668,Entrasol Active Vanilla Latte 160 gram,12,2023/3/9,March,29000,348780,34878
+669,Diabetasol Coklat 1 kg,7,2023/04/12,April,231000,1618720,161872
+670,Slim & Fit Milk 312 gr,14,2023/05/06,May,80000,1121398,112139.8
+671,Entrasol UHT Vanilla Latte 200 ml,15,2023/3/8,March,7000,106276,10627.6
+672,Entrasol UHT Vanilla Latte 200 ml,16,2023/1/8,January,7000,112088,11208.8
+673,Fitbar Multigrain Tiramisu 22 gram,2,2023/04/20,April,4000,9582,958.2
+674,Diabetasol Wafer Coklat 100 gram,1,2023/02/13,February,28000,29569,2956.9
+675,Entrasol Cereal 150 gram,13,2023/01/09,January,17000,222967,22296.7
+676,Slim & Fit Milk 312 gr,9,2023/02/02,February,80000,722458,72245.8
+677,Fitbar Multigrain Tiramisu 22 gram,18,2023/05/05,May,4000,74486,7448.6
+678,Entrasol Active Vanilla Latte 160 gram,5,2023/04/30,April,29000,147182,14718.2
+679,Entrasol Active Vanilla Latte 160 gram,6,2023/01/25,January,29000,174860,17486
+680,Diabetasol Coklat 1 kg,8,2023/02/15,February,231000,1848476,184847.6
+681,Entrasol Active Vanilla Latte 160 gram,12,2023/02/23,February,29000,349650,34965
+682,Fitbar Multigrain Tiramisu 22 gram,18,2023/04/14,April,4000,74099,7409.9
+683,Entrasol Cereal 150 gram,10,2023/03/10,March,17000,171011,17101.1
+684,Hydro Coco Original 500 ml,1,2023/03/29,March,16500,18451,1845.1
+685,Entrasol Cereal 150 gram,5,2023/03/08,March,17000,86996,8699.6
+686,Fitbar Multigrain raisin 22 gram,14,2023/04/19,April,5000,71815,7181.5
+687,Slim & Fit Milk 312 gr,19,2023/01/22,January,80000,1520530,152053
+688,Fitbar Multigrain Tiramisu 22 gram,13,2023/04/15,April,4000,53990,5399
+689,Fitbar Multigrain raisin 22 gram,12,2023/02/10,February,5000,61167,6116.7
+690,Fitbar Multigrain raisin 22 gram,8,2023/01/01,January,5000,41214,4121.4
+691,Entrasol UHT Vanilla Latte 200 ml,5,2023/3/6,March,7000,35798,3579.8
+692,Diabetasol Wafer Coklat 100 gram,10,2023/03/14,March,28000,282264,28226.4
+693,Entrasol Cereal 150 gram,9,2023/01/28,January,17000,154074,15407.4
+694,Hydro Coco Original 500 ml,8,2023/05/13,May,16500,132973,13297.3
+695,Fitbar Multigrain Tiramisu 22 gram,13,2023/04/16,April,4000,53577,5357.7
+696,Entrasol Cereal 150 gram,11,2023/02/19,February,17000,188274,18827.4
+697,Fitbar Multigrain Tiramisu 22 gram,6,2023/04/30,April,4000,26142,2614.2
+698,Diabetasol Wafer Coklat 100 gram,1,2023/1/19,January,28000,29735,2973.5
+699,Diabetasol Coklat 1 kg,5,2023/02/28,February,231000,1156144,115614.4
+700,Entrasol Active Vanilla Latte 160 gram,6,2023/1/28,January,29000,174291,17429.1
+701,Diabetasol Coklat 1 kg,13,2023/04/20,April,231000,3004000,300400
+702,Fitbar Multigrain Tiramisu 22 gram,5,2023/05/13,May,4000,20548,2054.8
+703,Diabetasol Coklat 1 kg,18,2023/01/14,January,231000,4159528,415952.8
+704,Diabetasol Wafer Coklat 100 gram,1,2023/04/07,April,28000,28194,2819.4
+705,Entrasol Cereal 150 gram,8,2023/01/10,January,17000,136319,13631.9
+706,Fitbar Multigrain Tiramisu 22 gram,16,2023/04/01,April,4000,64452,6445.2
+707,Hydro Coco Original 500 ml,14,2023/3/31,March,16500,233498,23349.8
+708,Diabetasol Coklat 1 kg,5,2023/03/30,March,231000,1157214,115721.4
+709,Hydro Coco Original 500 ml,9,2023/01/20,January,16500,150826,15082.6
+710,Fitbar Multigrain Tiramisu 22 gram,16,2023/01/02,January,4000,65471,6547.1
+711,Diabetasol Wafer Coklat 100 gram,5,2023/05/01,May,28000,140706,14070.6
+712,Fitbar Multigrain raisin 22 gram,3,2023/2/16,February,5000,15746,1574.6
+713,Fitbar Multigrain Tiramisu 22 gram,6,2023/01/02,January,4000,24768,2476.8
+714,Entrasol Active Vanilla Latte 160 gram,3,2023/03/31,March,29000,89190,8919
+715,Fitbar Multigrain raisin 22 gram,19,2023/02/21,February,5000,97252,9725.2
+716,Hydro Coco Original 500 ml,18,2023/5/2,May,16500,298199,29819.9
+717,Entrasol Cereal 150 gram,9,2023/2/19,February,17000,155248,15524.8
+718,Entrasol Active Vanilla Latte 160 gram,4,2023/04/10,April,29000,116537,11653.7
+719,Entrasol Active Vanilla Latte 160 gram,7,2023/02/08,February,29000,203392,20339.2
+720,Hydro Coco Original 500 ml,5,2023/4/20,April,16500,82971,8297.1
+721,Diabetasol Wafer Coklat 100 gram,14,2023/01/27,January,28000,393809,39380.9
+722,Diabetasol Wafer Coklat 100 gram,3,2023/03/25,March,28000,84306,8430.6
+723,Fitbar Multigrain raisin 22 gram,10,2023/04/18,April,5000,50371,5037.1
+724,Entrasol Active Vanilla Latte 160 gram,20,2023/01/08,January,29000,582085,58208.5
+725,Slim & Fit Milk 312 gr,3,2023/01/18,January,80000,242133,24213.3
+726,Entrasol Active Chocolate 160 gram,18,2023/02/05,February,29000,523418,52341.8
+727,Entrasol UHT Vanilla Latte 200 ml,19,2023/01/28,January,7000,133013,13301.3
+728,Fitbar Multigrain Tiramisu 22 gram,12,2023/01/03,January,4000,50089,5008.9
+729,Entrasol Active Chocolate 160 gram,17,2023/02/14,February,29000,493444,49344.4
+730,Fitbar Multigrain raisin 22 gram,5,2023/04/04,April,5000,26919,2691.9
+731,Hydro Coco Original 500 ml,1,2023/5/1,May,16500,17267,1726.7
+732,Entrasol Cereal 150 gram,12,2023/3/29,March,17000,204810,20481
+733,Diabetasol Coklat 1 kg,3,2023/02/10,February,231000,695435,69543.5
+734,Entrasol Active Vanilla Latte 160 gram,15,2023/03/06,March,29000,435668,43566.8
+735,Entrasol Active Chocolate 160 gram,9,2023/05/06,May,29000,262361,26236.1
+736,Fitbar Multigrain Tiramisu 22 gram,13,2023/03/15,March,4000,53706,5370.6
+737,Slim & Fit Milk 312 gr,7,2023/01/18,January,80000,560604,56060.4
+738,Fitbar Multigrain raisin 22 gram,12,2023/01/06,January,5000,61690,6169
+739,Entrasol Cereal 150 gram,4,2023/05/07,May,17000,68518,6851.8
+740,Entrasol UHT Vanilla Latte 200 ml,17,2023/3/5,March,7000,121005,12100.5
+741,Fitbar Multigrain raisin 22 gram,11,2023/02/20,February,5000,55362,5536.2
+742,Entrasol Active Vanilla Latte 160 gram,7,2023/2/16,February,29000,204681,20468.1
+743,Slim & Fit Milk 312 gr,10,2023/04/01,April,80000,800984,80098.4
+744,Fitbar Multigrain Tiramisu 22 gram,13,2023/01/11,January,4000,52555,5255.5
+745,Entrasol Active Chocolate 160 gram,6,2023/1/28,January,29000,175114,17511.4
+746,Diabetasol Coklat 1 kg,13,2023/02/08,February,231000,3004204,300420.4
+747,Hydro Coco Original 500 ml,13,2023/05/01,May,16500,216632,21663.2
+748,Fitbar Multigrain raisin 22 gram,20,2023/03/02,March,5000,101282,10128.2
+749,Diabetasol Coklat 1 kg,12,2023/04/30,April,231000,2773293,277329.3
+750,Entrasol Active Chocolate 160 gram,2,2023/04/21,April,29000,58141,5814.1
+751,Fitbar Multigrain raisin 22 gram,16,2023/03/05,March,5000,80032,8003.2
+752,Hydro Coco Original 500 ml,4,2023/01/20,January,16500,66874,6687.4
+753,Entrasol UHT Vanilla Latte 200 ml,4,2023/02/27,February,7000,28947,2894.7
+754,Entrasol Active Vanilla Latte 160 gram,20,2023/04/15,April,29000,581553,58155.3
+755,Fitbar Multigrain Tiramisu 22 gram,6,2023/02/18,February,4000,26181,2618.1
+756,Slim & Fit Milk 312 gr,14,2023/04/10,April,80000,1121883,112188.3
+757,Entrasol Active Chocolate 160 gram,8,2023/03/04,March,29000,232528,23252.8
+758,Entrasol Active Vanilla Latte 160 gram,10,2023/02/19,February,29000,290176,29017.6
+759,Entrasol Cereal 150 gram,6,2023/02/08,February,17000,103425,10342.5
+760,Entrasol Active Chocolate 160 gram,6,2023/04/05,April,29000,176135,17613.5
+761,Diabetasol Coklat 1 kg,12,2023/03/13,March,231000,2774429,277442.9
+762,Fitbar Multigrain raisin 22 gram,11,2023/04/19,April,5000,57379,5737.9
+763,Fitbar Multigrain raisin 22 gram,13,2023/4/6,April,5000,65271,6527.1
+764,Entrasol Active Chocolate 160 gram,18,2023/1/4,January,29000,522954,52295.4
+765,Fitbar Multigrain raisin 22 gram,20,2023/01/18,January,5000,100151,10015.1
+766,Slim & Fit Milk 312 gr,17,2023/02/05,February,80000,1361016,136101.6
+767,Entrasol Cereal 150 gram,18,2023/01/01,January,17000,308379,30837.9
+768,Diabetasol Wafer Coklat 100 gram,8,2023/03/15,March,28000,225972,22597.2
+769,Entrasol Active Vanilla Latte 160 gram,12,2023/04/16,April,29000,349196,34919.6
+770,Diabetasol Wafer Coklat 100 gram,14,2023/05/11,May,28000,393257,39325.7
+771,Entrasol Active Vanilla Latte 160 gram,13,2023/03/07,March,29000,377415,37741.5
+772,Diabetasol Wafer Coklat 100 gram,18,2023/02/20,February,28000,505372,50537.2
+773,Entrasol Cereal 150 gram,1,2023/01/29,January,17000,18316,1831.6
+774,Fitbar Multigrain Tiramisu 22 gram,5,2023/01/30,January,4000,22096,2209.6
+775,Slim & Fit Milk 312 gr,15,2023/03/05,March,80000,1200935,120093.5
+776,Fitbar Multigrain Tiramisu 22 gram,3,2023/01/19,January,4000,13792,1379.2
+777,Fitbar Multigrain Tiramisu 22 gram,11,2023/01/08,January,4000,46329,4632.9
+778,Diabetasol Coklat 1 kg,13,2023/03/28,March,231000,3003417,300341.7
+779,Fitbar Multigrain raisin 22 gram,9,2023/1/27,January,5000,45021,4502.1
+780,Fitbar Multigrain Tiramisu 22 gram,10,2023/03/19,March,4000,40653,4065.3
+781,Entrasol Cereal 150 gram,9,2023/04/30,April,17000,153483,15348.3
+782,Diabetasol Wafer Coklat 100 gram,1,2023/01/07,January,28000,28178,2817.8
+783,Fitbar Multigrain Tiramisu 22 gram,1,2023/1/3,January,4000,4743,474.3
+784,Diabetasol Coklat 1 kg,17,2023/04/03,April,231000,3927138,392713.8
+785,Entrasol Cereal 150 gram,5,2023/03/22,March,17000,85212,8521.2
+786,Hydro Coco Original 500 ml,2,2023/04/28,April,16500,33934,3393.4
+787,Diabetasol Wafer Coklat 100 gram,18,2023/01/28,January,28000,506327,50632.7
+788,Entrasol Active Vanilla Latte 160 gram,7,2023/03/13,March,29000,204586,20458.6
+789,Slim & Fit Milk 312 gr,11,2023/01/30,January,80000,881200,88120
+790,Fitbar Multigrain Tiramisu 22 gram,20,2023/01/28,January,4000,80175,8017.5
+791,Diabetasol Wafer Coklat 100 gram,17,2023/01/07,January,28000,477509,47750.9
+792,Entrasol Active Vanilla Latte 160 gram,10,2023/03/25,March,29000,290050,29005
+793,Entrasol Active Chocolate 160 gram,5,2023/02/22,February,29000,145290,14529
+794,Diabetasol Coklat 1 kg,11,2023/02/24,February,231000,2541133,254113.3
+795,Slim & Fit Milk 312 gr,17,2023/02/02,February,80000,1361231,136123.1
+796,Fitbar Multigrain raisin 22 gram,9,2023/01/20,January,5000,47397,4739.7
+797,Diabetasol Wafer Coklat 100 gram,14,2023/01/19,January,28000,393159,39315.9
+798,Fitbar Multigrain raisin 22 gram,8,2023/04/10,April,5000,41982,4198.2
+799,Entrasol Active Vanilla Latte 160 gram,19,2023/03/20,March,29000,551606,55160.6
+800,Entrasol UHT Vanilla Latte 200 ml,16,2023/02/22,February,7000,114253,11425.3
+801,Entrasol Active Vanilla Latte 160 gram,4,2023/4/13,April,29000,117528,11752.8
+802,Fitbar Multigrain Tiramisu 22 gram,14,2023/03/16,March,4000,57091,5709.1
+803,Diabetasol Wafer Coklat 100 gram,20,2023/04/13,April,28000,560611,56061.1
+804,Hydro Coco Original 500 ml,1,2023/05/04,May,16500,18838,1883.8
+805,Entrasol Active Chocolate 160 gram,16,2023/04/22,April,29000,466409,46640.9
+806,Diabetasol Coklat 1 kg,6,2023/4/1,April,231000,1387273,138727.3
+807,Slim & Fit Milk 312 gr,7,2023/05/02,May,80000,562015,56201.5
+808,Entrasol Active Vanilla Latte 160 gram,14,2023/3/17,March,29000,407651,40765.1
+809,Entrasol Cereal 150 gram,18,2023/04/03,April,17000,307479,30747.9
+810,Fitbar Multigrain raisin 22 gram,4,2023/01/27,January,5000,21241,2124.1
+811,Entrasol UHT Vanilla Latte 200 ml,2,2023/02/05,February,7000,14814,1481.4
+812,Entrasol UHT Vanilla Latte 200 ml,6,2023/01/14,January,7000,43734,4373.4
+813,Hydro Coco Original 500 ml,4,2023/3/22,March,16500,66682,6668.2
+814,Fitbar Multigrain raisin 22 gram,5,2023/1/8,January,5000,25314,2531.4
+815,Fitbar Multigrain raisin 22 gram,4,2023/04/01,April,5000,21838,2183.8
+816,Slim & Fit Milk 312 gr,18,2023/3/29,March,80000,1440222,144022.2
+817,Diabetasol Coklat 1 kg,1,2023/01/17,January,231000,232543,23254.3
+818,Slim & Fit Milk 312 gr,7,2023/05/09,May,80000,560192,56019.2
+819,Entrasol Active Chocolate 160 gram,18,2023/01/03,January,29000,522674,52267.4
+820,Fitbar Multigrain raisin 22 gram,10,2023/1/6,January,5000,51153,5115.3
+821,Entrasol Active Chocolate 160 gram,5,2023/4/14,April,29000,145482,14548.2
+822,Entrasol UHT Vanilla Latte 200 ml,9,2023/01/13,January,7000,63487,6348.7
+823,Hydro Coco Original 500 ml,2,2023/01/13,January,16500,33296,3329.6
+824,Entrasol Active Chocolate 160 gram,13,2023/05/12,May,29000,377035,37703.5
+825,Hydro Coco Original 500 ml,11,2023/01/01,January,16500,182053,18205.3
+826,Entrasol Active Chocolate 160 gram,16,2023/03/14,March,29000,464030,46403
+827,Entrasol Active Chocolate 160 gram,5,2023/01/30,January,29000,146490,14649
+828,Fitbar Multigrain raisin 22 gram,14,2023/2/5,February,5000,72478,7247.8
+829,Diabetasol Wafer Coklat 100 gram,16,2023/03/23,March,28000,448634,44863.4
+830,Entrasol UHT Vanilla Latte 200 ml,7,2023/01/31,January,7000,50335,5033.5
+831,Fitbar Multigrain raisin 22 gram,15,2023/01/15,January,5000,75716,7571.6
+832,Diabetasol Coklat 1 kg,8,2023/03/26,March,231000,1848726,184872.6
+833,Entrasol UHT Vanilla Latte 200 ml,7,2023/01/05,January,7000,49512,4951.2
+834,Entrasol Active Vanilla Latte 160 gram,12,2023/04/06,April,29000,349978,34997.8
+835,Diabetasol Wafer Coklat 100 gram,16,2023/02/03,February,28000,448056,44805.6
+836,Diabetasol Coklat 1 kg,8,2023/02/10,February,231000,1848288,184828.8
+837,Diabetasol Coklat 1 kg,1,2023/01/18,January,231000,231681,23168.1
+838,Hydro Coco Original 500 ml,19,2023/05/08,May,16500,315075,31507.5
+839,Slim & Fit Milk 312 gr,12,2023/4/1,April,80000,961658,96165.8
+840,Slim & Fit Milk 312 gr,18,2023/1/21,January,80000,1441419,144141.9
+841,Fitbar Multigrain Tiramisu 22 gram,8,2023/01/25,January,4000,33392,3339.2
+842,Fitbar Multigrain raisin 22 gram,6,2023/2/7,February,5000,31395,3139.5
+843,Entrasol UHT Vanilla Latte 200 ml,3,2023/03/12,March,7000,21954,2195.4
+844,Entrasol Active Chocolate 160 gram,14,2023/01/27,January,29000,406086,40608.6
+845,Entrasol Active Chocolate 160 gram,1,2023/02/11,February,29000,30606,3060.6
+846,Slim & Fit Milk 312 gr,8,2023/4/7,April,80000,640636,64063.6
+847,Entrasol Active Vanilla Latte 160 gram,2,2023/3/15,March,29000,59440,5944
+848,Diabetasol Wafer Coklat 100 gram,12,2023/04/25,April,28000,336172,33617.2
+849,Entrasol Active Chocolate 160 gram,4,2023/03/28,March,29000,116055,11605.5
+850,Hydro Coco Original 500 ml,17,2023/02/07,February,16500,281778,28177.8
+851,Diabetasol Wafer Coklat 100 gram,15,2023/2/18,February,28000,421419,42141.9
+852,Diabetasol Coklat 1 kg,18,2023/03/12,March,231000,4158528,415852.8
+853,Slim & Fit Milk 312 gr,3,2023/01/13,January,80000,242487,24248.7
+854,Fitbar Multigrain Tiramisu 22 gram,9,2023/02/14,February,4000,38421,3842.1
+855,Fitbar Multigrain raisin 22 gram,4,2023/01/11,January,5000,22472,2247.2
+856,Fitbar Multigrain Tiramisu 22 gram,16,2023/03/17,March,4000,66188,6618.8
+857,Entrasol UHT Vanilla Latte 200 ml,15,2023/03/30,March,7000,106463,10646.3
+858,Entrasol Active Vanilla Latte 160 gram,15,2023/01/06,January,29000,437481,43748.1
+859,Diabetasol Coklat 1 kg,2,2023/3/11,March,231000,462253,46225.3
+860,Entrasol Active Chocolate 160 gram,15,2023/01/07,January,29000,437434,43743.4
+861,Entrasol Active Chocolate 160 gram,9,2023/01/11,January,29000,261330,26133
+862,Entrasol Active Chocolate 160 gram,20,2023/03/19,March,29000,581086,58108.6
+863,Entrasol UHT Vanilla Latte 200 ml,7,2023/01/21,January,7000,49890,4989
+864,Fitbar Multigrain raisin 22 gram,2,2023/02/04,February,5000,11105,1110.5
+865,Hydro Coco Original 500 ml,4,2023/2/16,February,16500,66964,6696.4
+866,Entrasol Cereal 150 gram,13,2023/05/05,May,17000,223053,22305.3
+867,Entrasol Cereal 150 gram,15,2023/4/2,April,17000,255357,25535.7
+868,Entrasol Active Vanilla Latte 160 gram,4,2023/02/21,February,29000,116494,11649.4
+869,Entrasol Active Chocolate 160 gram,9,2023/01/02,January,29000,261941,26194.1
+870,Diabetasol Wafer Coklat 100 gram,7,2023/01/20,January,28000,197809,19780.9
+871,Entrasol Cereal 150 gram,15,2023/01/16,January,17000,255162,25516.2
+872,Entrasol UHT Vanilla Latte 200 ml,20,2023/01/08,January,7000,140877,14087.7
+873,Slim & Fit Milk 312 gr,12,2023/03/26,March,80000,962112,96211.2
+874,Entrasol Active Chocolate 160 gram,15,2023/04/27,April,29000,436690,43669
+875,Entrasol Active Chocolate 160 gram,6,2023/04/18,April,29000,174086,17408.6
+876,Entrasol UHT Vanilla Latte 200 ml,7,2023/03/18,March,7000,50715,5071.5
+877,Entrasol UHT Vanilla Latte 200 ml,13,2023/02/09,February,7000,92804,9280.4
+878,Fitbar Multigrain Tiramisu 22 gram,10,2023/04/30,April,4000,40080,4008
+879,Hydro Coco Original 500 ml,18,2023/02/06,February,16500,297404,29740.4
+880,Diabetasol Coklat 1 kg,14,2023/02/21,February,231000,3235310,323531
+881,Entrasol Cereal 150 gram,5,2023/4/14,April,17000,85027,8502.7
+882,Diabetasol Wafer Coklat 100 gram,12,2023/1/6,January,28000,337424,33742.4
+883,Diabetasol Coklat 1 kg,8,2023/01/12,January,231000,1849764,184976.4
+884,Entrasol Cereal 150 gram,18,2023/1/12,January,17000,306221,30622.1
+885,Slim & Fit Milk 312 gr,11,2023/01/25,January,80000,881102,88110.2
+886,Slim & Fit Milk 312 gr,4,2023/01/08,January,80000,321231,32123.1
+887,Entrasol UHT Vanilla Latte 200 ml,16,2023/03/06,March,7000,112823,11282.3
+888,Fitbar Multigrain raisin 22 gram,1,2023/2/15,February,5000,5980,598
+889,Entrasol Cereal 150 gram,19,2023/1/18,January,17000,324006,32400.6
+890,Diabetasol Coklat 1 kg,18,2023/02/10,February,231000,4159802,415980.2
+891,Fitbar Multigrain raisin 22 gram,10,2023/1/24,January,5000,51303,5130.3
+892,Slim & Fit Milk 312 gr,8,2023/04/17,April,80000,641260,64126
+893,Fitbar Multigrain raisin 22 gram,7,2023/02/15,February,5000,35113,3511.3
+894,Diabetasol Coklat 1 kg,11,2023/01/14,January,231000,2543486,254348.6
+895,Fitbar Multigrain raisin 22 gram,10,2023/04/14,April,5000,50793,5079.3
+896,Slim & Fit Milk 312 gr,5,2023/03/02,March,80000,401893,40189.3
+897,Hydro Coco Original 500 ml,17,2023/01/16,January,16500,282654,28265.4
+898,Entrasol UHT Vanilla Latte 200 ml,14,2023/1/24,January,7000,98941,9894.1
+899,Entrasol UHT Vanilla Latte 200 ml,1,2023/04/06,April,7000,8018,801.8
+900,Slim & Fit Milk 312 gr,19,2023/1/10,January,80000,1520253,152025.3
+901,Hydro Coco Original 500 ml,14,2023/01/02,January,16500,232822,23282.2
+902,Diabetasol Wafer Coklat 100 gram,2,2023/01/23,January,28000,56508,5650.8
+903,Diabetasol Coklat 1 kg,11,2023/1/10,January,231000,2541703,254170.3
+904,Entrasol Cereal 150 gram,6,2023/03/20,March,17000,102836,10283.6
+905,Entrasol Cereal 150 gram,10,2023/03/17,March,17000,170482,17048.2
+906,Diabetasol Coklat 1 kg,2,2023/03/18,March,231000,462947,46294.7
+907,Fitbar Multigrain Tiramisu 22 gram,2,2023/02/23,February,4000,8837,883.7
+908,Entrasol UHT Vanilla Latte 200 ml,2,2023/04/14,April,7000,14978,1497.8
+909,Entrasol UHT Vanilla Latte 200 ml,1,2023/5/8,May,7000,8751,875.1
+910,Entrasol UHT Vanilla Latte 200 ml,16,2023/02/17,February,7000,112488,11248.8
+911,Entrasol Active Vanilla Latte 160 gram,11,2023/03/02,March,29000,320862,32086.2
+912,Diabetasol Wafer Coklat 100 gram,4,2023/03/13,March,28000,112541,11254.1
+913,Entrasol Active Chocolate 160 gram,6,2023/05/09,May,29000,175514,17551.4
+914,Fitbar Multigrain Tiramisu 22 gram,1,2023/03/09,March,4000,5336,533.6
+915,Entrasol UHT Vanilla Latte 200 ml,16,2023/01/09,January,7000,113232,11323.2
+916,Diabetasol Wafer Coklat 100 gram,20,2023/1/5,January,28000,560006,56000.6
+917,Entrasol Active Chocolate 160 gram,7,2023/4/22,April,29000,203131,20313.1
+918,Fitbar Multigrain Tiramisu 22 gram,13,2023/02/06,February,4000,52953,5295.3
+919,Fitbar Multigrain raisin 22 gram,16,2023/03/18,March,5000,80323,8032.3
+920,Diabetasol Wafer Coklat 100 gram,14,2023/03/07,March,28000,393850,39385
+921,Diabetasol Wafer Coklat 100 gram,15,2023/01/17,January,28000,420559,42055.9
+922,Entrasol UHT Vanilla Latte 200 ml,4,2023/02/25,February,7000,28201,2820.1
+923,Slim & Fit Milk 312 gr,1,2023/03/22,March,80000,81835,8183.5
+924,Entrasol UHT Vanilla Latte 200 ml,16,2023/05/11,May,7000,112198,11219.8
+925,Hydro Coco Original 500 ml,16,2023/04/12,April,16500,264125,26412.5
+926,Entrasol Cereal 150 gram,20,2023/03/30,March,17000,341637,34163.7
+927,Slim & Fit Milk 312 gr,20,2023/01/07,January,80000,1600184,160018.4
+928,Diabetasol Wafer Coklat 100 gram,12,2023/03/26,March,28000,337259,33725.9
+929,Fitbar Multigrain Tiramisu 22 gram,17,2023/02/24,February,4000,68480,6848
+930,Hydro Coco Original 500 ml,1,2023/01/06,January,16500,18513,1851.3
+931,Entrasol Active Vanilla Latte 160 gram,3,2023/4/1,April,29000,87314,8731.4
+932,Fitbar Multigrain raisin 22 gram,18,2023/04/18,April,5000,91652,9165.2
+933,Fitbar Multigrain Tiramisu 22 gram,1,2023/01/22,January,4000,6477,647.7
+934,Entrasol Active Vanilla Latte 160 gram,18,2023/05/09,May,29000,524330,52433
+935,Hydro Coco Original 500 ml,9,2023/01/04,January,16500,150970,15097
+936,Diabetasol Wafer Coklat 100 gram,13,2023/02/16,February,28000,365290,36529
+937,Entrasol Active Chocolate 160 gram,13,2023/03/19,March,29000,377353,37735.3
+938,Entrasol UHT Vanilla Latte 200 ml,19,2023/04/20,April,7000,134536,13453.6
+939,Slim & Fit Milk 312 gr,17,2023/03/08,March,80000,1361717,136171.7
+940,Entrasol Active Vanilla Latte 160 gram,12,2023/04/25,April,29000,349650,34965
+941,Entrasol Active Vanilla Latte 160 gram,5,2023/02/01,February,29000,145073,14507.3
+942,Entrasol Active Vanilla Latte 160 gram,4,2023/01/20,January,29000,117287,11728.7
+943,Diabetasol Coklat 1 kg,15,2023/02/13,February,231000,3466382,346638.2
+944,Fitbar Multigrain Tiramisu 22 gram,4,2023/05/02,May,4000,17796,1779.6
+945,Slim & Fit Milk 312 gr,2,2023/04/09,April,80000,160085,16008.5
+946,Hydro Coco Original 500 ml,19,2023/01/29,January,16500,315019,31501.9
+947,Fitbar Multigrain Tiramisu 22 gram,3,2023/1/19,January,4000,13600,1360
+948,Diabetasol Wafer Coklat 100 gram,3,2023/03/28,March,28000,84757,8475.7
+949,Diabetasol Coklat 1 kg,8,2023/3/19,March,231000,1849538,184953.8
+950,Diabetasol Wafer Coklat 100 gram,6,2023/01/29,January,28000,170369,17036.9
+951,Fitbar Multigrain raisin 22 gram,6,2023/3/26,March,5000,30317,3031.7
+952,Fitbar Multigrain Tiramisu 22 gram,13,2023/03/25,March,4000,52917,5291.7
+953,Hydro Coco Original 500 ml,5,2023/01/09,January,16500,84156,8415.6
+954,Hydro Coco Original 500 ml,6,2023/03/11,March,16500,101377,10137.7
+955,Entrasol Cereal 150 gram,20,2023/01/25,January,17000,341930,34193
+956,Fitbar Multigrain raisin 22 gram,12,2023/05/07,May,5000,60342,6034.2
+957,Entrasol Cereal 150 gram,19,2023/04/14,April,17000,324066,32406.6
+958,Entrasol Active Chocolate 160 gram,11,2023/1/11,January,29000,319741,31974.1
+959,Entrasol Active Chocolate 160 gram,20,2023/04/21,April,29000,580647,58064.7
+960,Entrasol Active Vanilla Latte 160 gram,12,2023/04/06,April,29000,348036,34803.6
+961,Entrasol Cereal 150 gram,6,2023/02/11,February,17000,102777,10277.7
+962,Hydro Coco Original 500 ml,11,2023/1/24,January,16500,181764,18176.4
+963,Fitbar Multigrain raisin 22 gram,17,2023/04/06,April,5000,86790,8679
+964,Diabetasol Coklat 1 kg,9,2023/02/23,February,231000,2081459,208145.9
+965,Fitbar Multigrain Tiramisu 22 gram,9,2023/01/08,January,4000,38401,3840.1
+966,Fitbar Multigrain Tiramisu 22 gram,8,2023/05/03,May,4000,32073,3207.3
+967,Entrasol Active Chocolate 160 gram,9,2023/03/02,March,29000,262926,26292.6
+968,Entrasol UHT Vanilla Latte 200 ml,10,2023/03/15,March,7000,70197,7019.7
+969,Diabetasol Coklat 1 kg,13,2023/01/25,January,231000,3003915,300391.5
+970,Diabetasol Wafer Coklat 100 gram,6,2023/02/19,February,28000,168536,16853.6
+971,Fitbar Multigrain Tiramisu 22 gram,4,2023/4/22,April,4000,16645,1664.5
+972,Hydro Coco Original 500 ml,17,2023/01/30,January,16500,281581,28158.1
+973,Entrasol Active Vanilla Latte 160 gram,9,2023/2/6,February,29000,261399,26139.9
+974,Fitbar Multigrain Tiramisu 22 gram,5,2023/1/5,January,4000,22294,2229.4
+975,Entrasol UHT Vanilla Latte 200 ml,18,2023/03/30,March,7000,126275,12627.5
+976,Entrasol Active Vanilla Latte 160 gram,9,2023/4/26,April,29000,261593,26159.3
+977,Fitbar Multigrain Tiramisu 22 gram,1,2023/01/16,January,4000,6194,619.4
+978,Diabetasol Wafer Coklat 100 gram,17,2023/03/17,March,28000,477717,47771.7
+979,Entrasol Cereal 150 gram,17,2023/02/11,February,17000,291459,29145.9
+980,Diabetasol Wafer Coklat 100 gram,5,2023/01/06,January,28000,141892,14189.2
+981,Entrasol Active Chocolate 160 gram,7,2023/05/01,May,29000,204828,20482.8
+982,Entrasol Active Vanilla Latte 160 gram,9,2023/04/25,April,29000,262586,26258.6
+983,Fitbar Multigrain Tiramisu 22 gram,3,2023/03/03,March,4000,14360,1436
+984,Diabetasol Wafer Coklat 100 gram,18,2023/01/27,January,28000,504335,50433.5
+985,Entrasol Active Chocolate 160 gram,16,2023/01/12,January,29000,464881,46488.1
+986,Fitbar Multigrain Tiramisu 22 gram,6,2023/02/25,February,4000,24741,2474.1
+987,Entrasol Cereal 150 gram,16,2023/05/10,May,17000,274138,27413.8
+988,Entrasol UHT Vanilla Latte 200 ml,10,2023/05/05,May,7000,70876,7087.6
+989,Fitbar Multigrain Tiramisu 22 gram,20,2023/4/4,April,4000,80105,8010.5
+990,Diabetasol Wafer Coklat 100 gram,18,2023/04/12,April,28000,506464,50646.4
+991,Slim & Fit Milk 312 gr,6,2023/04/27,April,80000,480444,48044.4
+992,Entrasol Active Chocolate 160 gram,20,2023/03/27,March,29000,580352,58035.2
+993,Entrasol Cereal 150 gram,13,2023/3/2,March,17000,221735,22173.5
+994,Fitbar Multigrain raisin 22 gram,14,2023/05/05,May,5000,70834,7083.4
+995,Diabetasol Coklat 1 kg,19,2023/1/9,January,231000,4390377,439037.7
+996,Fitbar Multigrain raisin 22 gram,16,2023/01/12,January,5000,80142,8014.2
+997,Fitbar Multigrain raisin 22 gram,16,2023/01/25,January,5000,81867,8186.7
+998,Slim & Fit Milk 312 gr,8,2023/03/21,March,80000,642337,64233.7
+999,Slim & Fit Milk 312 gr,7,2023/02/24,February,80000,562199,56219.9
+1000,Entrasol Active Vanilla Latte 160 gram,17,2023/03/19,March,29000,493394,49339.4

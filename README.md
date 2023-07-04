@@ -8,7 +8,7 @@ Saya memperoleh file berisi [data](https://raw.githubusercontent.com/sabirinID/K
   <br>
   Gambar 1. Product Sales per City
   <br>
-  <a href="https://public.tableau.com/app/profile/sabirin/viz/ProductSales_16884264968160/PenjualanProduk">Click to view Tableau Public Viz →</a>
+  <a href="https://public.tableau.com/app/profile/sabirin/viz/KalbeNutritionalsProductSalesperCity/ProductSales">Click to view Tableau Public Viz →</a>
 </p>
 
 <p align="center">

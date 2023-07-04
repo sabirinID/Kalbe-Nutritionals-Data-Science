@@ -6,5 +6,15 @@ Saya memperoleh file berisi [data](https://raw.githubusercontent.com/sabirinID/K
 <p align="center">
   <img src="https://github.com/sabirinID/Kalbe-Nutritionals-Data-Science/blob/main/Case%20Study%20Analysis/Product_Sales.png" width="900" height="auto" alt="Product Sales per City">
   <br>
-  Lihat <a href="https://public.tableau.com/app/profile/sabirin/viz/ProductSales_16884264968160/PenjualanProduk">Tableau Public</a>
+  Gambar 1. Product Sales per City
+  <br>
+  <a href="https://public.tableau.com/app/profile/sabirin/viz/ProductSales_16884264968160/PenjualanProduk">Click to view Tableau Public Viz →</a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/sabirinID/Kalbe-Nutritionals-Data-Science/blob/main/Case%20Study%20Analysis/Product_Sales_Trends.png" width="900" height="auto" alt="Product Sales Trends by Month">
+  <br>
+  Gambar 2. Product Sales Trends by Month
+  <br>
+  <a href="https://public.tableau.com/app/profile/sabirin/viz/KalbeNutritionalsProductSalesTrendsbyMonth/SalesTransaction">Click to view Tableau Public Viz →</a>
 </p>

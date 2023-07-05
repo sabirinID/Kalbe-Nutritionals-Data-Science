@@ -20,3 +20,9 @@ Saya memperoleh file berisi [data](https://raw.githubusercontent.com/sabirinID/K
 </p>
 
 ## Final Project Data Modeling
+### Background Information
+Sebagai tugas akhir yang akan menyelesaikan perjalanan saya menjalani magang virtual di [Kalbe Nutritionals](https://kalbenutritionals.com/id), saya akan mengembangkan model data prediktif untuk meningkatkan bisnis perusahaan seperti mengoptimalkan strategi kompetitif bisnis atau membuat analisis regresi dan _clustering_ (dengan data yang tersedia), lalu mempersiapkan data visual untuk mempresentasikan solusi ke klien serta memastikan data visual yang dibuat jelas, mudah dibaca, dan komunikatif.
+
+### Task Brief
+
+### Task Resources

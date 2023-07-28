@@ -23,6 +23,68 @@ Saya memperoleh file berisi [data](https://raw.githubusercontent.com/sabirinID/K
 ### Background Information
 Sebagai tugas akhir yang akan menyelesaikan perjalanan saya menjalani magang virtual di [Kalbe Nutritionals](https://kalbenutritionals.com/id), saya akan mengembangkan model data prediktif untuk meningkatkan bisnis perusahaan seperti mengoptimalkan strategi kompetitif bisnis atau membuat analisis regresi dan _clustering_ (dengan data yang tersedia), lalu mempersiapkan data visual untuk mempresentasikan solusi ke klien serta memastikan data visual yang dibuat jelas, mudah dibaca, dan komunikatif.
 
+# Goals and Objective
+  * Goal
+    - Analyze transaction data.
+    - Build dashboard.
+    - Forecast quantity item sold for next 30 days.
+    - Generate cutomer segmentation and recommendation.
+  * Objective
+    - Exploratory data analysis with DBeaver.
+    - Create Dashboard with Tableau.
+    - Build forecast model with ARIMA alogarithm.
+    - Build clustering model.
+
+
+
+# Getting Started
+To run this project you will need Tableau Public account to build Dashboard, PostgreSQL and DBeaver to run queries and Jupyterlab to run modeling.
+## Built with
+
+- [![Python][Python.com]][Python-url]
+- [![PSQL][PSQL.com]][PSQL-url]
+- [![Dbeaver][Dbeaver.com]][Dbeaver-url]
+- [![Tableau][Tableau.com]][Tableau-url]
+- [![Anaconda][Anaconda.com]][Anaconda-url]
+- [![Jupyter][Jupyter.com]][Jupyter-url]
+- [![numpy][numpy.com]][numpy-url]
+<!-- - [![pandas][pandas.com]][pandas-url] -->
+- <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=white" alt="Logo" >
+  </a>
+
+<!-- - [![matplotlib][matplotlib.com]][matplotlib-url] -->
+- <a href="https://matplotlib.org/stable/index.html">
+    <img src="https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Logo" >
+  </a>
+<!-- - [![seaborn][seaborn.com]][seaborn-url] -->
+- <a href="https://seaborn.pydata.org/index.html">
+    <img src="https://img.shields.io/badge/seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white" alt="Logo" >
+  </a>
+## Prerequisites
+These are some library you need to run the project, i put the pip installation to make it easy for you.
+
+
+
+* Pandas
+  ```sh
+  pip install pandas
+  ```
+* Matplotlib
+  ```sh
+  pip install matplotlib
+  ```
+* Seaborn
+  ```sh
+  pip install seaborn
+  ```
+* numpy
+  ```sh
+  pip install numpy
+  ```
+# Direction
+This project divided in 4 part, EDA with DBeaver, Build Dashboard with Tableau, Forecasting in Jupyter, Clustering in Jupyter.
+
 ### Task Brief
 
 ### Task Resources

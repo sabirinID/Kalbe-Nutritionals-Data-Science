@@ -24,21 +24,21 @@ Saya memperoleh file berisi [data](https://raw.githubusercontent.com/sabirinID/K
 Sebagai tugas akhir yang akan menyelesaikan perjalanan saya menjalani magang virtual di [Kalbe Nutritionals](https://kalbenutritionals.com/id), saya akan mengembangkan model data prediktif untuk meningkatkan bisnis perusahaan seperti mengoptimalkan strategi kompetitif bisnis atau membuat analisis regresi dan _clustering_ (dengan data yang tersedia), lalu mempersiapkan data visual untuk mempresentasikan solusi ke klien serta memastikan data visual yang dibuat jelas, mudah dibaca, dan komunikatif.
 
 # Goals and Objective
-  * Goal
+  * Goals
     - Analyze transaction data.
-    - Build dashboard.
-    - Forecast quantity item sold for next 30 days.
-    - Generate cutomer segmentation and recommendation.
-  * Objective
-    - Exploratory data analysis with DBeaver.
-    - Create Dashboard with Tableau.
-    - Build forecast model with ARIMA alogarithm.
-    - Build clustering model.
-
-
+    - Build a dashboard.
+    - Forecast the quantity of items sold for the next 30 days.
+    - Generate customer segmentation and recommendations.
+      
+  * Objectives
+    - Perform exploratory data analysis with DBeaver.
+    - Create a dashboard using Tableau.
+    - Build a forecasting model using the ARIMA algorithm.
+    - Develop a clustering model using the K-Means algorithm.
 
 # Getting Started
-To run this project you will need Tableau Public account to build Dashboard, PostgreSQL and DBeaver to run queries and Jupyterlab to run modeling.
+To run this project, you will need a Tableau Public account to build the dashboard, PostgreSQL and DBeaver to run queries, and JupyterLab to run modeling.
+
 ## Built with
 
 - [![Python][Python.com]][Python-url]
@@ -63,8 +63,6 @@ To run this project you will need Tableau Public account to build Dashboard, Pos
   </a>
 ## Prerequisites
 These are some library you need to run the project, i put the pip installation to make it easy for you.
-
-
 
 * Pandas
   ```sh
